@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/619827249.svg)](https://doi.org/10.5281/zenodo.13891913)
+
 Data Files for Benson et al. 'Intrinsic and environmental drivers of pairwise cohesion in wild Canis social groups'. Ecology
 
 ## What follows is each datafile name and a description of each column. In many cases, the same data columns and column headings are carried across files. In these cases the column explanation is given for the first file in which it appears
