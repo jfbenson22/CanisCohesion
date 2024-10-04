@@ -1,0 +1,792 @@
+dyad_season_year,dyad_ID,PackID,species2,SA,season,season2,den,rend,winter,KernelOL,LoCoOL,Adult
+20443F_20496M_den_2009,20443F_20496M,Travis,coyote,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.956487333,0.613533935,1
+20443F_20496M_rend_2009,20443F_20496M,Travis,coyote,NorthCarolina_AlligatorNWR,rend,nw,0,1,0,0.919388281,0.568340102,1
+20443F_20496M_winter_2008_2009,20443F_20496M,Travis,coyote,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.940864604,0.572246732,1
+20443F_20496M_winter_2009_2010,20443F_20496M,Travis,coyote,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.961422475,0.833505364,1
+AL07M_AL10F_den_2015,AL07M_AL10F,West Pine Grove,coyote,Alabama_E_Montgomery,den,nw,1,0,0,0.949739386,0.673707615,0
+AL07M_AL10F_winter_2014_2015,AL07M_AL10F,West Pine Grove,coyote,Alabama_E_Montgomery,winter,winter,0,0,1,0.975511124,0.773533549,0
+AL07M_AL15F_den_2015,AL07M_AL15F,West Pine Grove,coyote,Alabama_E_Montgomery,den,nw,1,0,0,0.943583689,0.681618876,0
+AL07M_AL15F_rend_2015,AL07M_AL15F,West Pine Grove,coyote,Alabama_E_Montgomery,rend,nw,0,1,0,0.953129089,0.575431001,0
+AL07M_AL15F_winter_2014_2015,AL07M_AL15F,West Pine Grove,coyote,Alabama_E_Montgomery,winter,winter,0,0,1,0.977333562,0.791125997,0
+AL10F_AL15F_winter_2014_2015,AL10F_AL15F,West Pine Grove,coyote,Alabama_E_Montgomery,winter,winter,0,0,1,0.982909537,0.729404852,0
+AL11M_AL19F_den_2015,AL11M_AL19F,Grant,coyote,Alabama_W_Eufaulia,den,nw,1,0,0,0.97461704,0.708430077,0
+AL11M_AL19F_rend_2015,AL11M_AL19F,Grant,coyote,Alabama_W_Eufaulia,rend,nw,0,1,0,0.983223971,0.866299722,0
+AL11M_AL19F_winter_2014_2015,AL11M_AL19F,Grant,coyote,Alabama_W_Eufaulia,winter,winter,0,0,1,0.98194238,0.885414343,0
+AL11M_AL19F_winter_2015_2016,AL11M_AL19F,Grant,coyote,Alabama_W_Eufaulia,winter,winter,0,0,1,0.991756026,0.898341311,0
+AL14M_AL26M_den_2015,AL14M_AL26M,Hwy 82,coyote,Alabama_W_Eufaulia,den,nw,1,0,0,0.819345879,0.512142914,1
+AL14M_AL26M_rend_2015,AL14M_AL26M,Hwy 82,coyote,Alabama_W_Eufaulia,rend,nw,0,1,0,0.907784942,0.714448131,1
+AL14M_AL26M_winter_2014_2015,AL14M_AL26M,Hwy 82,coyote,Alabama_W_Eufaulia,winter,winter,0,0,1,0.891507816,0.577426306,1
+AL14M_AL26M_winter_2015_2016,AL14M_AL26M,Hwy 82,coyote,Alabama_W_Eufaulia,winter,winter,0,0,1,0.815651802,0.495541714,1
+AL16F_AL20M_den_2015,AL16F_AL20M,East Pine Grove,coyote,Alabama_E_Montgomery,den,nw,1,0,0,0.99433081,0.833560325,1
+AL16F_AL20M_rend_2015,AL16F_AL20M,East Pine Grove,coyote,Alabama_E_Montgomery,rend,nw,0,1,0,0.996689896,0.921844506,1
+AL16F_AL20M_winter_2014_2015,AL16F_AL20M,East Pine Grove,coyote,Alabama_E_Montgomery,winter,winter,0,0,1,0.987499694,0.812563289,0
+AL16F_AL20M_winter_2015_2016,AL16F_AL20M,East Pine Grove,coyote,Alabama_E_Montgomery,winter,winter,0,0,1,0.995491282,0.931045419,1
+AL27F_AL28M_winter_2015_2016,AL27F_AL28M,Joyes,coyote,Alabama_Troy,winter,winter,0,0,1,0.916037095,0.561754493,0
+AL27F_AL32M_winter_2015_2016,AL27F_AL32M,Joyes,coyote,Alabama_Troy,winter,winter,0,0,1,0.779685675,0.371255934,0
+AL38M_AL39M_den_2016,AL38M_AL39M,Childs,coyote,Alabama_Troy,den,nw,1,0,0,0.684922871,0.436063544,0
+AL38M_AL39M_rend_2016,AL38M_AL39M,Childs,coyote,Alabama_Troy,rend,nw,0,1,0,0.936738986,0.684482889,0
+AL38M_AL39M_winter_2015_2016,AL38M_AL39M,Childs,coyote,Alabama_Troy,winter,winter,0,0,1,0.919674498,0.659493223,0
+AL38M_AL40M_winter_2015_2016,AL38M_AL40M,Childs,coyote,Alabama_Troy,winter,winter,0,0,1,0.672180208,0.36120486,0
+AL38M_AL48M_rend_2016,AL38M_AL48M,Childs,coyote,Alabama_Troy,rend,nw,0,1,0,0.956357495,0.763610887,0
+AL38M_AL48M_winter_2015_2016,AL38M_AL48M,Childs,coyote,Alabama_Troy,winter,winter,0,0,1,0.973265011,0.776925953,0
+AL38M_AL53M_winter_2015_2016,AL38M_AL53M,Childs,coyote,Alabama_Troy,winter,winter,0,0,1,0.954810773,0.80639024,0
+AL39M_AL48M_den_2016,AL39M_AL48M,Childs,coyote,Alabama_Troy,den,nw,1,0,0,0.93366084,0.671743328,0
+AL39M_AL48M_rend_2016,AL39M_AL48M,Childs,coyote,Alabama_Troy,rend,nw,0,1,0,0.958403092,0.733311443,0
+AL39M_AL48M_winter_2015_2016,AL39M_AL48M,Childs,coyote,Alabama_Troy,winter,winter,0,0,1,0.934579989,0.700800269,0
+AL39M_AL53M_winter_2015_2016,AL39M_AL53M,Childs,coyote,Alabama_Troy,winter,winter,0,0,1,0.872937278,0.672618168,0
+AL39M_AL54F_winter_2015_2016,AL39M_AL54F,Childs,coyote,Alabama_Troy,winter,winter,0,0,1,0.672738471,0.398935881,0
+AL46F_AL47M_winter_2015_2016,AL46F_AL47M,Parker Hill,coyote,Alabama_Troy,winter,winter,0,0,1,0.994909354,0.916852646,0
+AL48M_AL53M_winter_2015_2016,AL48M_AL53M,Childs,coyote,Alabama_Troy,winter,winter,0,0,1,0.904348834,0.750864646,0
+AL48M_AL54F_winter_2015_2016,AL48M_AL54F,Childs,coyote,Alabama_Troy,winter,winter,0,0,1,0.648835505,0.343021449,0
+ANG_MLX_winter_2006_2007,ANG_MLX,ET,coyote,California_S_Corona,winter,winter,0,0,1,0.962038288,0.836921068,0
+ANG_SCH_winter_2006_2007,ANG_SCH,ET,coyote,California_S_Corona,winter,winter,0,0,1,0.988647791,0.890644475,0
+ART_CIF_den_2009,ART_CIF,Caltrans,coyote,California_N_Corona,den,nw,1,0,0,0.960531824,0.69927675,1
+ART_CIF_rend_2009,ART_CIF,Caltrans,coyote,California_N_Corona,rend,nw,0,1,0,0.893020774,0.526184503,1
+ART_CIF_winter_2008_2009,ART_CIF,Caltrans,coyote,California_N_Corona,winter,winter,0,0,1,0.944047096,0.646420157,1
+B081_B082_winter_2011_2012,B081_B082,Boreal1,wolf,NWT_central,winter,winter,0,0,1,0.995507961,0.754045104,1
+BAP1405_BAP1406_winter_2014_2015,BAP1405_BAP1406,Brule,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.975501678,0.776247993,0
+BCW1_BCW2_winter_2009_2010,BCW1_BCW2,Beaver_Creek,wolf,Alaska_YukonFlatsNWR,winter,winter,0,0,1,0.998691523,0.876739739,0
+BCW26819_BCW32120_den_2019,BCW26819_BCW32120,Tagai Lake,wolf,BritishColumbia_W_PrinceGeorge,den,nw,1,0,0,0.940774282,0.663106646,1
+BCW26819_BCW32120_rend_2019,BCW26819_BCW32120,Tagai Lake,wolf,BritishColumbia_W_PrinceGeorge,rend,nw,0,1,0,0.960040567,0.718861703,1
+BCW26819_BCW32120_winter_2018_2019,BCW26819_BCW32120,Tagai Lake,wolf,BritishColumbia_W_PrinceGeorge,winter,winter,0,0,1,0.976099252,0.709978104,1
+bonnie_clyde_den_2010,bonnie_clyde,Sachuest,coyote,Rhode_Island,den,nw,1,0,0,0.975458473,0.758918281,1
+bonnie_clyde_rend_2010,bonnie_clyde,Sachuest,coyote,Rhode_Island,rend,nw,0,1,0,0.989161855,0.837792722,1
+bonnie_clyde_winter_2009_2010,bonnie_clyde,Sachuest,coyote,Rhode_Island,winter,winter,0,0,1,0.972523372,0.610967577,1
+BPW1701_BPW1703_den_2017,BPW1701_BPW1703,Oxtongue,wolf,Ontario_Algonquin_Kawartha,den,nw,1,0,0,0.931693182,0.505486042,1
+BPW1701_BPW1703_den_2018,BPW1701_BPW1703,Oxtongue,wolf,Ontario_Algonquin_Kawartha,den,nw,1,0,0,0.934876041,0.595513954,1
+BPW1701_BPW1703_rend_2017,BPW1701_BPW1703,Oxtongue,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.929347274,0.723840188,1
+BPW1701_BPW1703_rend_2018,BPW1701_BPW1703,Oxtongue,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.976988339,0.750167088,1
+BPW1701_BPW1703_winter_2016_2017,BPW1701_BPW1703,Oxtongue,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.928196306,0.631756872,1
+BPW1701_BPW1703_winter_2017_2018,BPW1701_BPW1703,Oxtongue,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.935902112,0.697379557,1
+BQE1404_BQE1527_rend_2015,BQE1404_BQE1527,Bob Caygeon,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.915560576,0.597055934,0
+BQE1404_BQE1529_rend_2015,BQE1404_BQE1529,Bob Caygeon,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.979081101,0.644704706,0
+BQE1411_BQE1415_rend_2014,BQE1411_BQE1415,Pauper,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.95639036,0.732677975,1
+BQE1411_BQE1415_winter_2014_2015,BQE1411_BQE1415,Pauper,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.995385228,0.911240146,1
+BQE1411_BQE1521_den_2015,BQE1411_BQE1521,Pauper,wolf,Ontario_Algonquin_Kawartha,den,nw,1,0,0,0.864179182,0.474879221,1
+BQE1411_BQE1521_rend_2015,BQE1411_BQE1521,Pauper,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.847845178,0.446359297,1
+BQE1411_BQE1521_winter_2014_2015,BQE1411_BQE1521,Pauper,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.992385484,0.886599508,0
+BW024_BW025_den_2014,BW024_BW025,Kwokullie,wolf,British_Columbia_N,den,nw,1,0,0,0.545143753,0.070871492,1
+BW024_BW025_rend_2014,BW024_BW025,Kwokullie,wolf,British_Columbia_N,rend,nw,0,1,0,0.53209083,0.212914567,1
+BW024_BW025_winter_2013_2014,BW024_BW025,Kwokullie,wolf,British_Columbia_N,winter,winter,0,0,1,0.987258192,0.69800077,1
+BW030_BW031_den_2014,BW030_BW031,Clarke,wolf,British_Columbia_N,den,nw,1,0,0,0.941744877,0.585203364,1
+BW030_BW031_winter_2013_2014,BW030_BW031,Clarke,wolf,British_Columbia_N,winter,winter,0,0,1,0.998637144,0.98971065,1
+BW1006_BW1606_winter_2017_2018,BW1006_BW1606,Bearpaw,wolf,Alaska_Denali,winter,winter,0,0,1,0.982450705,0.706412312,1
+BW1106_BW1107_winter_2010_2011,BW1106_BW1107,McKinley Slough,wolf,Alaska_Denali,winter,winter,0,0,1,0.999635225,0.99637979,0
+BW1106_BW1107_winter_2011_2012,BW1106_BW1107,McKinley Slough,wolf,Alaska_Denali,winter,winter,0,0,1,0.987159039,0.875992722,1
+BW1201_BW1203_winter_2011_2012,BW1201_BW1203,East Fork,wolf,Alaska_Denali,winter,winter,0,0,1,0.999372501,0.975349313,0
+BW1202_BW1406_den_2015,BW1202_BW1406,Riley Creek,wolf,Alaska_Denali,den,nw,1,0,0,0.63871211,0.071749164,1
+BW1202_BW1406_den_2016,BW1202_BW1406,Riley Creek,wolf,Alaska_Denali,den,nw,1,0,0,0.902246396,0.522943145,1
+BW1202_BW1406_rend_2015,BW1202_BW1406,Riley Creek,wolf,Alaska_Denali,rend,nw,0,1,0,0.984141396,0.839920364,1
+BW1202_BW1406_rend_2016,BW1202_BW1406,Riley Creek,wolf,Alaska_Denali,rend,nw,0,1,0,0.988816676,0.824552537,1
+BW1202_BW1406_winter_2014_2015,BW1202_BW1406,Riley Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.998457118,0.916289896,1
+BW1202_BW1406_winter_2015_2016,BW1202_BW1406,Riley Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.999700309,0.983999068,1
+BW1202_BW1406_winter_2016_2017,BW1202_BW1406,Riley Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.999792977,0.998939025,1
+BW1202_BW1601_winter_2015_2016,BW1202_BW1601,Riley Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.946176049,0.705826092,1
+BW1202_BW1801_winter_2017_2018,BW1202_BW1801,Riley Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.973856269,0.913533821,1
+BW1208_BW1405_den_2015,BW1208_BW1405,Iron Creek West,wolf,Alaska_Denali,den,nw,1,0,0,0.846987032,0.292819244,1
+BW1208_BW1405_rend_2015,BW1208_BW1405,Iron Creek West,wolf,Alaska_Denali,rend,nw,0,1,0,0.990561532,0.820789509,1
+BW1208_BW1405_winter_2014_2015,BW1208_BW1405,Iron Creek West,wolf,Alaska_Denali,winter,winter,0,0,1,0.994714375,0.928847564,1
+BW1208_BW1405_winter_2015_2016,BW1208_BW1405,Iron Creek West,wolf,Alaska_Denali,winter,winter,0,0,1,0.999854719,0.990090628,1
+BW1302_BW1605_rend_2016,BW1302_BW1605,John Hansen,wolf,Alaska_Denali,rend,nw,0,1,0,0.834737093,0.465297512,1
+BW1302_BW1605_winter_2015_2016,BW1302_BW1605,John Hansen,wolf,Alaska_Denali,winter,winter,0,0,1,0.998177572,0.983392767,1
+BW1302_BW1605_winter_2016_2017,BW1302_BW1605,John Hansen,wolf,Alaska_Denali,winter,winter,0,0,1,0.999601511,0.905121768,1
+BW1302_BW1707_rend_2017,BW1302_BW1707,John Hansen,wolf,Alaska_Denali,rend,nw,0,1,0,0.991070052,0.744502864,1
+BW1302_BW1707_winter_2017_2018,BW1302_BW1707,John Hansen,wolf,Alaska_Denali,winter,winter,0,0,1,0.999756828,0.996330585,1
+BW1404_BW1501_den_2016,BW1404_BW1501,Grant Creek,wolf,Alaska_Denali,den,nw,1,0,0,0.675258004,0.2132382,1
+BW1404_BW1501_rend_2015,BW1404_BW1501,Grant Creek,wolf,Alaska_Denali,rend,nw,0,1,0,0.990785315,0.612391297,1
+BW1404_BW1501_rend_2016,BW1404_BW1501,Grant Creek,wolf,Alaska_Denali,rend,nw,0,1,0,0.943082512,0.665899656,1
+BW1404_BW1501_winter_2015_2016,BW1404_BW1501,Grant Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.999712325,0.997591969,1
+BW1404_BW1501_winter_2016_2017,BW1404_BW1501,Grant Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.999696768,0.992376113,1
+BW1404_BW1602_rend_2016,BW1404_BW1602,Grant Creek,wolf,Alaska_Denali,rend,nw,0,1,0,0.986914166,0.757994666,0
+BW1404_BW1602_winter_2015_2016,BW1404_BW1602,Grant Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.999315324,0.993334304,0
+BW1404_BW1602_winter_2016_2017,BW1404_BW1602,Grant Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.999629148,0.997351267,0
+BW1406_BW1601_winter_2015_2016,BW1406_BW1601,Riley Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.946080185,0.714694892,1
+BW1501_BW1602_rend_2016,BW1501_BW1602,Grant Creek,wolf,Alaska_Denali,rend,nw,0,1,0,0.879661604,0.697273483,0
+BW1501_BW1602_winter_2015_2016,BW1501_BW1602,Grant Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.998074257,0.989042546,0
+BW1501_BW1602_winter_2016_2017,BW1501_BW1602,Grant Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.999860372,0.991536827,0
+BW1503_BW1504_rend_2016,BW1503_BW1504,Myrtle,wolf,Alaska_Denali,rend,nw,0,1,0,0.889417062,0.456024853,1
+BW1503_BW1504_winter_2015_2016,BW1503_BW1504,Myrtle,wolf,Alaska_Denali,winter,winter,0,0,1,0.99527617,0.895927141,1
+BW1503_BW1603_winter_2015_2016,BW1503_BW1603,Myrtle,wolf,Alaska_Denali,winter,winter,0,0,1,0.994246956,0.841127853,1
+BW1504_BW1603_winter_2015_2016,BW1504_BW1603,Myrtle,wolf,Alaska_Denali,winter,winter,0,0,1,0.999217799,0.979606727,1
+BW1604_BW1802_winter_2017_2018,BW1604_BW1802,Eagle Gorge,wolf,Alaska_Denali,winter,winter,0,0,1,0.998739372,0.943990475,1
+BW1608_BPW1705_den_2017,BW1608_BPW1705,Big Trout,wolf,Ontario_Algonquin_Kawartha,den,nw,1,0,0,0.954803957,0.571814967,1
+BW1608_BPW1705_winter_2016_2017,BW1608_BPW1705,Big Trout,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.996985122,0.930706777,0
+BW1609_BPW1707_winter_2016_2017,BW1609_BW1707,Cauliflower,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.985528406,0.797879532,1
+BW1610_BW1710_den_2017,BW1610_BW1710,Swan,wolf,Ontario_Algonquin_Kawartha,den,nw,1,0,0,0.947691958,0.66690886,1
+BW1610_BW1710_winter_2016_2017,BW1610_BW1710,Swan,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.999301228,0.961359827,0
+BW1613_BW1615_winter_2016_2017,BW1613_BW1615,Billings,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.994595936,0.82705493,0
+BW1619_BW1709_rend_2017,BW1619_BW1709,Cameron,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.851721815,0.506385476,1
+BW1619_BW1709_winter_2017_2018,BW1619_BW1709,Cameron,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.966436341,0.729684843,1
+BW1623_BW1708_den_2017,BW1623_BW1708,White Partridge,wolf,Ontario_Algonquin_Kawartha,den,nw,1,0,0,0.939790346,0.659364008,1
+BW1623_BW1708_rend_2017,BW1623_BW1708,White Partridge,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.95542838,0.68367835,1
+BW1623_BW1708_winter_2016_2017,BW1623_BW1708,White Partridge,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.993818479,0.850713591,1
+BW1633_BW1634_winter_2016_2017,BW1633_BW1634,Shirley,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.989429716,0.680976129,0
+BW1637_BW1640_winter_2016_2017,BW1637_BW1640,Loontail,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.852667351,0.307010413,0
+BW1637_BW1642_winter_2016_2017,BW1637_BW1642,Loontail,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.898013682,0.529247705,0
+BW1640_BW1642_winter_2016_2017,BW1640_BW1642,Loontail,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.919959051,0.56654235,1
+BW1647_BW1649_winter_2016_2017,BW1647_BW1649,Brule2,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.950367952,0.415692051,0
+BW1702_BW1705_den_2017,BW1702_BW1705,Comb,wolf,Alaska_Denali,den,nw,1,0,0,0.966157426,0.733725378,0
+BW1702_BW1705_rend_2017,BW1702_BW1705,Comb,wolf,Alaska_Denali,rend,nw,0,1,0,0.987313726,0.864379741,0
+BW1702_BW1705_winter_2017_2018,BW1702_BW1705,Comb,wolf,Alaska_Denali,winter,winter,0,0,1,0.991406969,0.812464253,0
+BW1709_BW1807_den_2018,BW1709_BW1807,Cameron,wolf,Ontario_Algonquin_Kawartha,den,nw,1,0,0,0.959839492,0.653070757,1
+BW1709_BW1807_rend_2018,BW1709_BW1807,Cameron,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.888932768,0.56630638,1
+BW1709_BW1807_winter_2017_2018,BW1709_BW1807,Cameron,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.96746633,0.556559648,1
+BW1721_BW1722_rend_2017,BW1721_BW1722,MacKenzie Pond,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.93732397,0.671591553,0
+BW1726_BW1728_rend_2017,BW1726_BW1728,Hay Creek,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.87292484,0.630027106,1
+BW1726_BW1728_winter_2017_2018,BW1726_BW1728,Hay Creek,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.965701276,0.826479962,1
+BW1731_BW1734_winter_2017_2018,BW1731_BW1734,Petroglyph,coyote,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.899501847,0.627710304,0
+BW1731_BW1736_winter_2017_2018,BW1731_BW1736,Petroglyph,coyote,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.902269279,0.493485956,0
+BW1734_BW1736_winter_2017_2018,BW1734_BW1736,Petroglyph,coyote,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.953928629,0.771325151,0
+BW1743_BW1745_winter_2017_2018,BW1743_BW1745,Brule,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.671839786,0.398182924,0
+BW811_BW1103_rend_2011,BW811_BW1103,Grant Creek,wolf,Alaska_Denali,rend,nw,0,1,0,0.981231197,0.894760826,1
+BW811_BW1103_winter_2010_2011,BW811_BW1103,Grant Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.971803157,0.757414661,0
+BW811_BW1103_winter_2011_2012,BW811_BW1103,Grant Creek,wolf,Alaska_Denali,winter,winter,0,0,1,0.997219612,0.929918724,1
+C160_C161_winter_2018_2019,C160_C161,Elysian,coyote,California_LosAngeles,winter,winter,0,0,1,0.923049646,0.832054599,1
+c164_c516_den_2013,c164_c516,PC NE,coyote,Illinois_W_Chicago,den,nw,1,0,0,0.950422189,0.849418375,1
+c164_c516_rend_2013,c164_c516,PC NE,coyote,Illinois_W_Chicago,rend,nw,0,1,0,0.973500299,0.83727666,1
+c2023_c2026_den_2009,c2023_c2026,suzie pasture,coyote,Texas_W,den,nw,1,0,0,0.957037876,0.841599537,0
+c21_c23_winter_2011_2012,c21_c23,Edmonton,coyote,Alberta_Edmonton,winter,winter,0,0,1,0.747575301,0.452100578,1
+c30027_c30231_rend_2011,c30027_c30231,Oneilwoods,coyote,Ohio_N_Akron,rend,nw,0,1,0,0.935151385,0.750697177,1
+c30027_c30231_winter_2010_2011,c30027_c30231,Oneilwoods,coyote,Ohio_N_Akron,winter,winter,0,0,1,0.905550259,0.75405629,1
+c361_c801_den_2014,c361_c801,jackpack1,coyote,Nevada,den,nw,1,0,0,0.938319406,0.740823022,1
+c361_c801_rend_2014,c361_c801,jackpack1,coyote,Nevada,rend,nw,0,1,0,0.984958689,0.759452441,1
+c361_c801_winter_2013_2014,c361_c801,jackpack1,coyote,Nevada,winter,winter,0,0,1,0.978151424,0.733851708,1
+c361_c801_winter_2014_2015,c361_c801,jackpack1,coyote,Nevada,winter,winter,0,0,1,0.994560452,0.892496548,1
+c446_c448_den_2011,c446_c448,PC NE,coyote,Illinois_W_Chicago,den,nw,1,0,0,0.920035171,0.571432807,1
+c446_c448_rend_2011,c446_c448,PC NE,coyote,Illinois_W_Chicago,rend,nw,0,1,0,0.8489471,0.554230495,1
+c46F_c47M_winter_2012_2013,c46F_c47M,DenaliCoy1,coyote,Alaska_Denali,winter,winter,0,0,1,0.884902136,0.631702485,1
+c49F_c48M_den_2013,c49F_c48M,DenaliCoy2,coyote,Alaska_Denali,den,nw,1,0,0,0.958174519,0.69737927,1
+c49F_c48M_rend_2013,c49F_c48M,DenaliCoy2,coyote,Alaska_Denali,rend,nw,0,1,0,0.973470356,0.642234408,1
+c49F_c48M_winter_2012_2013,c49F_c48M,DenaliCoy2,coyote,Alaska_Denali,winter,winter,0,0,1,0.959102462,0.655667989,1
+c971_c972_den_2016,c971_c972,west chicago,coyote,Illinois_E_Chicago,den,nw,1,0,0,0.929728059,0.505924126,1
+c971_c972_winter_2015_2016,c971_c972,west chicago,coyote,Illinois_E_Chicago,winter,winter,0,0,1,0.983739092,0.727530915,1
+CRG_URS_winter_2008_2009,CRG_URS,Caltrans,coyote,California_N_Corona,winter,winter,0,0,1,0.822138291,0.559639352,1
+csw1_csw2_winter_2009_2010,csw1_csw2,Crazy_Slough,wolf,Alaska_YukonFlatsNWR,winter,winter,0,0,1,0.986623774,0.728178638,0
+ER_W_32_ER_W_34_den_2017,ER_W_32_ER_W_34,Manigotagan,wolf,Manitoba_E_Winnipeg,den,nw,1,0,0,0.815996538,0.498101456,1
+ER_W_32_ER_W_34_rend_2017,ER_W_32_ER_W_34,Manigotagan,wolf,Manitoba_E_Winnipeg,rend,nw,0,1,0,0.938817752,0.609049089,1
+ER_W_32_ER_W_34_winter_2016_2017,ER_W_32_ER_W_34,Manigotagan,wolf,Manitoba_E_Winnipeg,winter,winter,0,0,1,0.993058473,0.854653617,1
+ER_W_42_ER_W_49_winter_2018_2019,ER_W_42_ER_W_49,Frenchman,wolf,Manitoba_E_Winnipeg,winter,winter,0,0,1,0.996291967,0.925557847,1
+ER_W_43_ER_W_47_winter_2018_2019,ER_W_43_ER_W_47,Happy,wolf,Manitoba_E_Winnipeg,winter,winter,0,0,1,0.998002636,0.863862964,1
+ER_W_45_ER_W_51_den_2019,ER_W_45_ER_W_51,Sandy,wolf,Manitoba_E_Winnipeg,den,nw,1,0,0,0.925247568,0.715082908,1
+ER_W_45_ER_W_51_rend_2019,ER_W_45_ER_W_51,Sandy,wolf,Manitoba_E_Winnipeg,rend,nw,0,1,0,0.9682066,0.662379069,1
+ER_W_45_ER_W_51_winter_2018_2019,ER_W_45_ER_W_51,Sandy,wolf,Manitoba_E_Winnipeg,winter,winter,0,0,1,0.990044434,0.808645516,1
+ER_W_48_ER_W_50_den_2019,ER_W_48_ER_W_50,Smoky,wolf,Manitoba_E_Winnipeg,den,nw,1,0,0,0.892025403,0.672412781,1
+ER_W_48_ER_W_50_winter_2018_2019,ER_W_48_ER_W_50,Smoky,wolf,Manitoba_E_Winnipeg,winter,winter,0,0,1,0.965961283,0.749823728,1
+F_08_F_12_winter_2009_2010,F_08_F_12,P01,wolf,Israel_S,winter,winter,0,0,1,0.734756988,0.248944282,0
+F23_M26_den_2010,F23_M26,Canneto,wolf,Italy,den,nw,1,0,0,0.974557299,0.809432947,1
+F23_M26_winter_2009_2010,F23_M26,Canneto,wolf,Italy,winter,winter,0,0,1,0.979359525,0.781165331,1
+GA03F_GA21M_den_2015,GA03F_GA21M,Soap Creek,coyote,Georgia_Lincolnton,den,nw,1,0,0,0.915002756,0.656605719,0
+GA03F_GA21M_rend_2015,GA03F_GA21M,Soap Creek,coyote,Georgia_Lincolnton,rend,nw,0,1,0,0.942849152,0.651097279,0
+GA03F_GA21M_winter_2014_2015,GA03F_GA21M,Soap Creek,coyote,Georgia_Lincolnton,winter,winter,0,0,1,0.833161463,0.362541654,0
+GA04M_GA13F_winter_2014_2015,GA04M_GA13F,Burks Mountain,coyote,Georgia_N_Augusta,winter,winter,0,0,1,0.946611802,0.82091572,1
+GA04M_GA14M_den_2015,GA04M_GA14M,Burks Mountain,coyote,Georgia_N_Augusta,den,nw,1,0,0,0.621043136,0.217971136,1
+GA04M_GA14M_winter_2014_2015,GA04M_GA14M,Burks Mountain,coyote,Georgia_N_Augusta,winter,winter,0,0,1,0.971277314,0.861525239,1
+GA13F_GA14M_den_2015,GA13F_GA14M,Burks Mountain,coyote,Georgia_N_Augusta,den,nw,1,0,0,0.957807124,0.769800956,1
+GA13F_GA14M_rend_2015,GA13F_GA14M,Burks Mountain,coyote,Georgia_N_Augusta,rend,nw,0,1,0,0.95722112,0.753877212,1
+GA13F_GA14M_winter_2014_2015,GA13F_GA14M,Burks Mountain,coyote,Georgia_N_Augusta,winter,winter,0,0,1,0.963082492,0.84226608,1
+GA32F_GA35M_rend_2016,GA32F_GA35M,Kitchens,coyote,Georgia_W_Augusta,rend,nw,0,1,0,0.992793149,0.902030751,1
+GA32F_GA35M_winter_2016_2017,GA32F_GA35M,Kitchens,coyote,Georgia_W_Augusta,winter,winter,0,0,1,0.951647695,0.67080449,1
+GPW2013_7_GPW2013_8_winter_2013_2014,GPW2013_7_GPW2013_8,GP1,wolf,Minnesota_Grand_Portage,winter,winter,0,0,1,0.914747998,0.580963058,1
+GPW2014_8_GPW2014_9_winter_2014_2015,GPW2014_8_GPW2014_9,GP2,wolf,Minnesota_Grand_Portage,winter,winter,0,0,1,0.983765506,0.827788975,0
+GPW2018_10_GPW2018_4_winter_2018_2019,GPW2018_10_GPW2018_4,GP3,wolf,Minnesota_Grand_Portage,winter,winter,0,0,1,0.97431614,0.728703812,1
+hmw1_hmw2_winter_2009_2010,hmw1_hmw2,Hodzana_Mouth,wolf,Alaska_YukonFlatsNWR,winter,winter,0,0,1,0.98465802,0.789217381,0
+JSW1701_JSW1308_den_2017,JSW1701_JSW1308,Sorenson,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.897562547,0.314650846,1
+JSW1701_JSW1308_rend_2017,JSW1701_JSW1308,Sorenson,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.892236777,0.624882113,1
+JSW1701_JSW1308_winter_2016_2017,JSW1701_JSW1308,Sorenson,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.951821831,0.624896432,1
+JSW1701_JSW1308_winter_2017_2018,JSW1701_JSW1308,Sorenson,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.97943315,0.727893751,1
+JSW1701_JSW1704_den_2017,JSW1701_JSW1704,Sorenson,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.921236252,0.470088647,1
+JSW1701_JSW1704_rend_2017,JSW1701_JSW1704,Sorenson,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.948924323,0.723678789,1
+JSW1701_JSW1704_winter_2016_2017,JSW1701_JSW1704,Sorenson,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.951197292,0.737919362,1
+JSW1701_JSW1704_winter_2017_2018,JSW1701_JSW1704,Sorenson,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.997096094,0.944770837,1
+JSW1703_JSW1702_den_2017,JSW1703_JSW1702,Essie Creek,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.911067593,0.48398061,1
+JSW1703_JSW1702_rend_2017,JSW1703_JSW1702,Essie Creek,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.901219844,0.442090015,1
+JSW1703_JSW1702_winter_2016_2017,JSW1703_JSW1702,Essie Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.991276819,0.858271299,1
+JSW1704_JSW1308_rend_2017,JSW1704_JSW1308,Sorenson,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.945021001,0.646280041,1
+JSW1704_JSW1308_winter_2016_2017,JSW1704_JSW1308,Sorenson,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.986774401,0.766152231,1
+JSW1704_JSW1308_winter_2017_2018,JSW1704_JSW1308,Sorenson,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.967804199,0.583062092,1
+JSW1706_JSW1705_den_2017,JSW1706_JSW1705,Independence,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.9015984,0.549742614,1
+JSW1706_JSW1705_rend_2017,JSW1706_JSW1705,Independence,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.971142735,0.607037942,1
+JSW1706_JSW1705_winter_2016_2017,JSW1706_JSW1705,Independence,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.98252464,0.874890827,1
+JSW1706_JSW1705_winter_2017_2018,JSW1706_JSW1705,Independence,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.9993719,0.935510365,1
+JSW1802_JSW1806_winter_2017_2018,JSW1802_JSW1806,Essie Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.970464724,0.86623675,1
+JSW1802_JSW1807_winter_2017_2018,JSW1802_JSW1807,Essie Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.998934762,0.967969404,1
+JSW1805_JSW1804_winter_2017_2018,JSW1805_JSW1804,Kandik,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.998958189,0.941088729,1
+JSW1806_JSW1807_winter_2017_2018,JSW1806_JSW1807,Essie Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.98667297,0.911607349,1
+JSW193_JSW195_winter_2003_2004,JSW193_JSW195,Fisher Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.997568739,0.868110096,0
+JSW193_JSW195_winter_2004_2005,JSW193_JSW195,Fisher Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.998961066,0.959889127,0
+JSW201_JSW246_rend_2010,JSW201_JSW246,Lower Charley,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.994186777,0.811612743,1
+JSW201_JSW246_rend_2011,JSW201_JSW246,Lower Charley,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.97134826,0.813822093,1
+JSW201_JSW246_winter_2009_2010,JSW201_JSW246,Lower Charley,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.998990888,0.983409662,1
+JSW201_JSW246_winter_2010_2011,JSW201_JSW246,Lower Charley,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999142385,0.966311803,1
+JSW201_JSW246_winter_2011_2012,JSW201_JSW246,Lower Charley,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999806699,0.939984295,1
+JSW214_JSW221_winter_2006_2007,JSW214_JSW221,Copper Mountain,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.998808104,0.977768364,1
+JSW221_JSW236_winter_2008_2009,JSW221_JSW236,Copper Mountain,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.997563623,0.977179044,1
+JSW222_JSW237_rend_2008,JSW222_JSW237,Step Mountain,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.969296769,0.753657755,1
+JSW222_JSW237_winter_2008_2009,JSW222_JSW237,Step Mountain,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.993674733,0.917277861,1
+JSW227_JSW258_winter_2010_2011,JSW227_JSW258,Edwards,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999528916,0.996957888,1
+JSW231_JSW226_den_2009,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.981509859,0.547796693,1
+JSW231_JSW226_den_2010,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.531774527,0.038695838,1
+JSW231_JSW226_den_2011,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.851652319,0.463869741,1
+JSW231_JSW226_den_2013,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.544874372,0.184720769,1
+JSW231_JSW226_rend_2009,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.984148271,0.868482196,1
+JSW231_JSW226_rend_2010,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.980569291,0.755420749,1
+JSW231_JSW226_rend_2011,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.993048577,0.849132577,1
+JSW231_JSW226_rend_2012,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.988729545,0.813735153,1
+JSW231_JSW226_rend_2013,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.967430848,0.354337187,1
+JSW231_JSW226_winter_2008_2009,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.994086892,0.88896601,1
+JSW231_JSW226_winter_2009_2010,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.997412719,0.927870613,1
+JSW231_JSW226_winter_2010_2011,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999641266,0.946103188,1
+JSW231_JSW226_winter_2011_2012,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.994875395,0.951663683,1
+JSW231_JSW226_winter_2012_2013,JSW231_JSW226,Lost Creek,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999083785,0.966112732,1
+JSW237_JSW241_den_2009,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.863726845,0.388624818,1
+JSW237_JSW241_den_2010,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.876686739,0.501323069,1
+JSW237_JSW241_den_2011,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.9243579,0.530721046,1
+JSW237_JSW241_rend_2009,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.993016983,0.868593113,1
+JSW237_JSW241_rend_2010,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.99609275,0.72030413,1
+JSW237_JSW241_rend_2011,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.990370931,0.792419685,1
+JSW237_JSW241_winter_2008_2009,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.99702367,0.783723911,0
+JSW237_JSW241_winter_2009_2010,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.997572595,0.885939242,1
+JSW237_JSW241_winter_2010_2011,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999619388,0.950212474,1
+JSW237_JSW241_winter_2011_2012,JSW237_JSW241,Step Mountain,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.998500695,0.982831826,1
+JSW242_JSW248_den_2010,JSW242_JSW248,Copper Mountain,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.9300006,0.208775335,1
+JSW242_JSW248_rend_2010,JSW242_JSW248,Copper Mountain,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.996068234,0.862412324,1
+JSW242_JSW248_winter_2009_2010,JSW242_JSW248,Copper Mountain,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.998368215,0.944372413,1
+JSW242_JSW248_winter_2010_2011,JSW242_JSW248,Copper Mountain,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.994520242,0.920843999,1
+JSW243_JSW259_den_2011,JSW243_JSW259,70 mile,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.617398493,0.267339178,1
+JSW243_JSW259_den_2012,JSW243_JSW259,70 mile,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.777296824,0.319616131,1
+JSW243_JSW259_rend_2011,JSW243_JSW259,70 mile,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.98984902,0.95535191,1
+JSW243_JSW259_rend_2012,JSW243_JSW259,70 mile,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.961718033,0.741855247,1
+JSW243_JSW259_winter_2010_2011,JSW243_JSW259,70 mile,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999293909,0.943551451,1
+JSW243_JSW259_winter_2011_2012,JSW243_JSW259,70 mile,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.997738055,0.983909423,1
+JSW243_JSW259_winter_2012_2013,JSW243_JSW259,70 mile,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999176281,0.958128593,1
+JSW247_JSW255_den_2011,JSW247_JSW255,Yukon Fork,wolf,Alaska_Yukon_Charley,den,nw,1,0,0,0.69907893,0.355431038,1
+JSW247_JSW255_rend_2011,JSW247_JSW255,Yukon Fork,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.958224685,0.762811604,1
+JSW247_JSW255_rend_2012,JSW247_JSW255,Yukon Fork,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.948483526,0.557202611,1
+JSW247_JSW255_winter_2010_2011,JSW247_JSW255,Yukon Fork,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.998515142,0.969344134,0
+JSW247_JSW255_winter_2011_2012,JSW247_JSW255,Yukon Fork,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999203281,0.976775871,1
+JSW251_JSW257_rend_2011,JSW251_JSW257,Nation River,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.950712137,0.63402454,0
+JSW251_JSW257_winter_2010_2011,JSW251_JSW257,Nation River,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999285429,0.956009078,0
+JSW251_JSW257_winter_2011_2012,JSW251_JSW257,Nation River,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.984345471,0.912725237,0
+JSW251_JSW268_winter_2011_2012,JSW251_JSW268,Nation River,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999793228,0.999332144,0
+JSW257_JSW268_winter_2011_2012,JSW257_JSW268,Nation River,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999705611,0.998512309,1
+JSW261_JSW262_winter_2010_2011,JSW261_JSW262,Tatonduk River,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.87369811,0.628866983,1
+JSW264_JSW265_rend_2012,JSW264_JSW265,Snowy Peak,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.931883483,0.509440732,1
+JSW264_JSW265_winter_2011_2012,JSW264_JSW265,Snowy Peak,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.997372393,0.971887263,1
+JSW264_JSW265_winter_2012_2013,JSW264_JSW265,Snowy Peak,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.99868676,0.955395805,1
+JSW264_JSW266_rend_2012,JSW264_JSW266,Snowy Peak,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.987289339,0.756307387,1
+JSW264_JSW266_winter_2011_2012,JSW264_JSW266,Snowy Peak,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.923589679,0.796851897,1
+JSW264_JSW266_winter_2012_2013,JSW264_JSW266,Snowy Peak,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999687758,0.914572599,1
+JSW265_JSW266_rend_2012,JSW265_JSW266,Snowy Peak,wolf,Alaska_Yukon_Charley,rend,nw,0,1,0,0.90754959,0.5397028,1
+JSW265_JSW266_winter_2012_2013,JSW265_JSW266,Snowy Peak,wolf,Alaska_Yukon_Charley,winter,winter,0,0,1,0.999640915,0.9440837,1
+K005_K009_winter_2000_2001,K005_K009,Cutbank,wolf,Alberta_W_above,winter,winter,0,0,1,0.995510432,0.864292986,1
+K019_K021_winter_2000_2001,K019_K021,Cutbank,wolf,Alberta_W_above,winter,winter,0,0,1,0.992631547,0.905001257,0
+KH1_KH3_den_2009,KH1_KH3,Gold,wolf,Ontario_Algonquin_Kawartha,den,nw,1,0,0,0.935985218,0.647504124,1
+KH1_KH3_rend_2009,KH1_KH3,Gold,wolf,Ontario_Algonquin_Kawartha,rend,nw,0,1,0,0.88646618,0.579095039,1
+KH1_KH3_winter_2008_2009,KH1_KH3,Gold,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.994868609,0.843303665,1
+KH1_KH3_winter_2009_2010,KH1_KH3,Gold,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.99183791,0.910579517,1
+L03_L10_den_2005,L03_L10,malbaie,wolf,Quebec,den,nw,1,0,0,0.953231895,0.842108991,1
+L03_L10_rend_2005,L03_L10,malbaie,wolf,Quebec,rend,nw,0,1,0,0.896990938,0.538820862,1
+L03_L10_winter_2004_2005,L03_L10,malbaie,wolf,Quebec,winter,winter,0,0,1,0.997713333,0.948067552,1
+L11_L14_den_2005,L11_L14,grands jardins,wolf,Quebec,den,nw,1,0,0,0.937604058,0.549469257,1
+L11_L14_rend_2005,L11_L14,grands jardins,wolf,Quebec,rend,nw,0,1,0,0.983545447,0.676894863,1
+L11_L14_winter_2004_2005,L11_L14,grands jardins,wolf,Quebec,winter,winter,0,0,1,0.994009428,0.712285998,1
+L11_L14_winter_2005_2006,L11_L14,grands jardins,wolf,Quebec,winter,winter,0,0,1,0.988636476,0.731064679,1
+L16_L17_rend_2005,L16_L17,Hupe,wolf,Quebec,rend,nw,0,1,0,0.999037113,0.923025938,0
+L16_L18_winter_2005_2006,L16_L18,Hupe,wolf,Quebec,winter,winter,0,0,1,0.99849613,0.948967769,0
+LBw1_LBw2_den_2011,LBw1_LBw2,LBL_pack1,wolf,Spain_Santiago,den,nw,1,0,0,0.842608819,0.494403161,1
+LBw1_LBw2_rend_2011,LBw1_LBw2,LBL_pack1,wolf,Spain_Santiago,rend,nw,0,1,0,0.931413157,0.677969707,1
+LBw1_LBw2_winter_2010_2011,LBw1_LBw2,LBL_pack1,wolf,Spain_Santiago,winter,winter,0,0,1,0.959213536,0.619081043,0
+LBw3_LBw4_winter_2010_2011,LBw3_LBw4,LBL_pack2,wolf,Spain_E_Oviedo,winter,winter,0,0,1,0.837134913,0.412504222,0
+LBw7_LBw8_rend_2011,LBw7_LBw8,LBL_pack4,wolf,Spain_NW_Santiago,rend,nw,0,1,0,0.943315871,0.531473138,0
+LBw7_LBw8_winter_2011_2012,LBw7_LBw8,LBL_pack4,wolf,Spain_NW_Santiago,winter,winter,0,0,1,0.932498767,0.515713253,0
+LBw9_LBw10_rend_2017,LBw9_LBw10,LBL_pack5,wolf,Spain_W_Oviedo,rend,nw,0,1,0,0.731764063,0.484015704,1
+M_33_M_34_rend_2013,M_33_M_34,P04,wolf,Israel_N,rend,nw,0,1,0,0.938386136,0.606115543,1
+M_33_M_34_winter_2012_2013,M_33_M_34,P04,wolf,Israel_N,winter,winter,0,0,1,0.967071309,0.71381705,0
+M0109_M0110_den_2003,M0109_M0110,Grafjell,wolf,Norway_Sweden,den,nw,1,0,0,0.941498959,0.565868132,1
+M0109_M0110_rend_2003,M0109_M0110,Grafjell,wolf,Norway_Sweden,rend,nw,0,1,0,0.973604806,0.792992824,1
+M0109_M0110_winter_2002_2003,M0109_M0110,Grafjell,wolf,Norway_Sweden,winter,winter,0,0,1,0.997803031,0.975358635,1
+M0109_M0110_winter_2003_2004,M0109_M0110,Grafjell,wolf,Norway_Sweden,winter,winter,0,0,1,0.997139671,0.918412924,1
+M0109_M0302_winter_2002_2003,M0109_M0302,Grafjell,wolf,Norway_Sweden,winter,winter,0,0,1,0.984063892,0.664197766,0
+M0110_M0302_winter_2002_2003,M0110_M0302,Grafjell,wolf,Norway_Sweden,winter,winter,0,0,1,0.981713117,0.729618667,0
+M0301_M0302_winter_2002_2003,M0301_M0302,Grafjell,wolf,Norway_Sweden,winter,winter,0,0,1,0.85873666,0.405489863,0
+M0610_M0611_den_2006,M0610_M0611,Grasmark,wolf,Norway_Sweden,den,nw,1,0,0,0.930970313,0.657836409,1
+M0610_M0611_rend_2006,M0610_M0611,Grasmark,wolf,Norway_Sweden,rend,nw,0,1,0,0.987857951,0.814784817,1
+M0610_M0611_winter_2005_2006,M0610_M0611,Grasmark,wolf,Norway_Sweden,winter,winter,0,0,1,0.991631993,0.780967552,1
+M0902_M0901_winter_2008_2009,M0902_M0901,Galven,wolf,Norway_Sweden,winter,winter,0,0,1,0.930069988,0.52965105,0
+M0903_M0901_winter_2008_2009,M0903_M0901,Galven,wolf,Norway_Sweden,winter,winter,0,0,1,0.970800909,0.660461786,0
+M0903_M0902_winter_2008_2009,M0903_M0902,Galven,wolf,Norway_Sweden,winter,winter,0,0,1,0.958560829,0.514981983,0
+M0903_M0914_den_2009,M0903_M0914,Galven,wolf,Norway_Sweden,den,nw,1,0,0,0.940038101,0.280658503,1
+M0903_M0914_rend_2009,M0903_M0914,Galven,wolf,Norway_Sweden,rend,nw,0,1,0,0.978405659,0.737578096,1
+M0904_M0906_den_2010,M0904_M0906,Fulufjellet,wolf,Norway_Sweden,den,nw,1,0,0,0.927931614,0.599127804,1
+M0904_M0906_rend_2010,M0904_M0906,Fulufjellet,wolf,Norway_Sweden,rend,nw,0,1,0,0.962793786,0.670088467,1
+M0904_M0906_winter_2008_2009,M0904_M0906,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.997385548,0.93246817,1
+M0904_M0906_winter_2009_2010,M0904_M0906,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.997778956,0.959360134,1
+M0904_M0907_winter_2008_2009,M0904_M0907,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.995461757,0.8578538,0
+M0904_M0908_winter_2008_2009,M0904_M0908,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.865721943,0.565953354,0
+M0904_M0909_winter_2008_2009,M0904_M0909,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.838494542,0.627607838,0
+M0906_M0907_winter_2008_2009,M0906_M0907,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.996122835,0.820999709,0
+M0906_M0908_winter_2008_2009,M0906_M0908,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.9076737,0.624706373,0
+M0906_M0909_winter_2008_2009,M0906_M0909,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.8403687,0.641885005,0
+M0907_M0908_winter_2008_2009,M0907_M0908,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.909041086,0.578401115,0
+M0907_M0909_winter_2008_2009,M0907_M0909,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.834158423,0.641463284,0
+M0908_M0909_winter_2008_2009,M0908_M0909,Fulufjellet,wolf,Norway_Sweden,winter,winter,0,0,1,0.963051561,0.833264518,0
+M1108_M1111_den_2011,M1108_M1111,Rotna,wolf,Norway_Sweden,den,nw,1,0,0,0.979965955,0.602511404,0
+M1108_M1111_rend_2011,M1108_M1111,Rotna,wolf,Norway_Sweden,rend,nw,0,1,0,0.938269417,0.596029093,0
+M1108_M1111_winter_2010_2011,M1108_M1111,Rotna,wolf,Norway_Sweden,winter,winter,0,0,1,0.776058326,0.280546532,0
+M1108_M1111_winter_2011_2012,M1108_M1111,Rotna,wolf,Norway_Sweden,winter,winter,0,0,1,0.853205883,0.362492784,0
+M1109_M1108_den_2011,M1109_M1108,Rotna,wolf,Norway_Sweden,den,nw,1,0,0,0.922204863,0.449798542,0
+M1109_M1110_den_2011,M1109_M1110,Rotna,wolf,Norway_Sweden,den,nw,1,0,0,0.931608652,0.589456852,1
+M1109_M1110_winter_2010_2011,M1109_M1110,Rotna,wolf,Norway_Sweden,winter,winter,0,0,1,0.999162927,0.951497909,1
+M1109_M1111_den_2011,M1109_M1111,Rotna,wolf,Norway_Sweden,den,nw,1,0,0,0.933046396,0.421518185,0
+M1109_M1111_winter_2010_2011,M1109_M1111,Rotna,wolf,Norway_Sweden,winter,winter,0,0,1,0.805306224,0.439376621,0
+M1110_M1108_den_2011,M1110_M1108,Rotna,wolf,Norway_Sweden,den,nw,1,0,0,0.903195666,0.462812171,0
+M1110_M1108_rend_2011,M1110_M1108,Rotna,wolf,Norway_Sweden,rend,nw,0,1,0,0.938926802,0.694783391,0
+M1110_M1108_winter_2011_2012,M1110_M1108,Rotna,wolf,Norway_Sweden,winter,winter,0,0,1,0.983911125,0.612309373,0
+M1110_M1111_den_2011,M1110_M1111,Rotna,wolf,Norway_Sweden,den,nw,1,0,0,0.947016274,0.504692171,0
+M1110_M1111_rend_2011,M1110_M1111,Rotna,wolf,Norway_Sweden,rend,nw,0,1,0,0.97981782,0.660632185,0
+M1110_M1111_winter_2010_2011,M1110_M1111,Rotna,wolf,Norway_Sweden,winter,winter,0,0,1,0.808982659,0.438341135,0
+M1110_M1111_winter_2011_2012,M1110_M1111,Rotna,wolf,Norway_Sweden,winter,winter,0,0,1,0.91841464,0.469601021,0
+M1402_M1403_winter_2013_2014,M1402_M1403,Tandsjon,wolf,Norway_Sweden,winter,winter,0,0,1,0.947461321,0.521661745,0
+M1406_M1407_winter_2013_2014,M1406_M1407,Julussa,wolf,Norway_Sweden,winter,winter,0,0,1,0.662709715,0.2832029,0
+M1407_M1408_winter_2013_2014,M1407_M1408,Julussa,wolf,Norway_Sweden,winter,winter,0,0,1,0.8775826,0.600943024,0
+M1409_M1407_den_2014,M1409_M1407,Julussa,wolf,Norway_Sweden,den,nw,1,0,0,0.920467739,0.665150204,0
+M1409_M1407_rend_2014,M1409_M1407,Julussa,wolf,Norway_Sweden,rend,nw,0,1,0,0.936778687,0.661609891,0
+M1409_M1407_winter_2013_2014,M1409_M1407,Julussa,wolf,Norway_Sweden,winter,winter,0,0,1,0.956703643,0.835479122,0
+M1409_M1408_winter_2013_2014,M1409_M1408,Julussa,wolf,Norway_Sweden,winter,winter,0,0,1,0.97585768,0.827578052,0
+M1409_M1410_den_2014,M1409_M1410,Julussa,wolf,Norway_Sweden,den,nw,1,0,0,0.973224595,0.544430529,1
+M1409_M1410_rend_2014,M1409_M1410,Julussa,wolf,Norway_Sweden,rend,nw,0,1,0,0.989515627,0.842969916,1
+M1409_M1410_winter_2013_2014,M1409_M1410,Julussa,wolf,Norway_Sweden,winter,winter,0,0,1,0.999488623,0.991801273,1
+M1409_M1410_winter_2014_2015,M1409_M1410,Julussa,wolf,Norway_Sweden,winter,winter,0,0,1,0.998554499,0.900854717,1
+M1410_M1407_den_2014,M1410_M1407,Julussa,wolf,Norway_Sweden,den,nw,1,0,0,0.816290191,0.500491721,0
+M1410_M1407_rend_2014,M1410_M1407,Julussa,wolf,Norway_Sweden,rend,nw,0,1,0,0.939453725,0.731485711,0
+M1410_M1407_winter_2013_2014,M1410_M1407,Julussa,wolf,Norway_Sweden,winter,winter,0,0,1,0.961447442,0.785892711,0
+M1410_M1407_winter_2014_2015,M1410_M1407,Julussa,wolf,Norway_Sweden,winter,winter,0,0,1,0.966188749,0.773541258,0
+M1410_M1408_winter_2013_2014,M1410_M1408,Julussa,wolf,Norway_Sweden,winter,winter,0,0,1,0.97755862,0.853135951,0
+Mich01_Mich02_den_2015,Mich01_Mich02,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.962686273,0.511256481,1
+Mich01_Mich02_den_2016,Mich01_Mich02,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.949590554,0.610102406,1
+Mich01_Mich02_rend_2015,Mich01_Mich02,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.98549594,0.825086357,1
+Mich01_Mich02_rend_2016,Mich01_Mich02,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.992324833,0.824728797,1
+Mich01_Mich02_winter_2014_2015,Mich01_Mich02,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.99866063,0.934849461,1
+Mich01_Mich02_winter_2015_2016,Mich01_Mich02,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.996554548,0.927852921,1
+Mich01_Mich02_winter_2016_2017,Mich01_Mich02,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.995090379,0.924749341,1
+Mich01_Mich03_den_2016,Mich01_Mich03,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.975128843,0.624112334,1
+Mich01_Mich03_rend_2015,Mich01_Mich03,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.984228962,0.92624474,1
+Mich01_Mich03_rend_2016,Mich01_Mich03,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.975242128,0.837400194,1
+Mich01_Mich03_winter_2014_2015,Mich01_Mich03,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.994407739,0.890819759,1
+Mich01_Mich03_winter_2015_2016,Mich01_Mich03,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.997943452,0.932366376,1
+Mich01_Mich03_winter_2016_2017,Mich01_Mich03,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.997549948,0.914175996,1
+Mich01_Mich04_den_2016,Mich01_Mich04,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.876758597,0.48235759,1
+Mich01_Mich04_rend_2016,Mich01_Mich04,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.948688898,0.568993509,1
+Mich01_Mich04_winter_2015_2016,Mich01_Mich04,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.986617942,0.751839205,1
+Mich02_Mich03_den_2016,Mich02_Mich03,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.963193561,0.644291492,1
+Mich02_Mich03_rend_2015,Mich02_Mich03,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.934013122,0.754028058,1
+Mich02_Mich03_rend_2016,Mich02_Mich03,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.980502845,0.825586737,1
+Mich02_Mich03_winter_2014_2015,Mich02_Mich03,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.993296443,0.890438443,1
+Mich02_Mich03_winter_2015_2016,Mich02_Mich03,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.997083218,0.931325981,1
+Mich02_Mich03_winter_2016_2017,Mich02_Mich03,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.997104549,0.923487753,1
+Mich02_Mich03_winter_2017_2018,Mich02_Mich03,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.994362325,0.970226584,1
+Mich02_Mich03_winter_2018_2019,Mich02_Mich03,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.844362571,0.424483968,1
+Mich02_Mich04_den_2016,Mich02_Mich04,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.874354307,0.606430241,1
+Mich02_Mich04_rend_2016,Mich02_Mich04,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.951858655,0.617353479,1
+Mich02_Mich04_winter_2015_2016,Mich02_Mich04,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.987358491,0.813835941,1
+Mich02_Mich05_winter_2016_2017,Mich02_Mich05,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.96547188,0.665948699,1
+Mich02_Mich05_winter_2017_2018,Mich02_Mich05,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.957322756,0.66176269,1
+Mich02_Mich06_den_2017,Mich02_Mich06,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.901319874,0.539931506,1
+Mich02_Mich06_rend_2017,Mich02_Mich06,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.958271329,0.686118284,1
+Mich02_Mich06_winter_2016_2017,Mich02_Mich06,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.971305767,0.715898571,1
+Mich02_Mich06_winter_2017_2018,Mich02_Mich06,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.878871218,0.436701798,1
+Mich02_Mich07_winter_2017_2018,Mich02_Mich07,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.95391322,0.744567843,0
+Mich02_Mich08_winter_2017_2018,Mich02_Mich08,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.978008121,0.810874575,0
+Mich02_Mich11_winter_2017_2018,Mich02_Mich11,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.942375028,0.772440566,0
+Mich02_Mich12_winter_2017_2018,Mich02_Mich12,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.957289255,0.6893246,1
+Mich03_Mich04_den_2016,Mich03_Mich04,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.898767971,0.35018702,1
+Mich03_Mich04_rend_2016,Mich03_Mich04,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.936545682,0.568716588,1
+Mich03_Mich04_winter_2015_2016,Mich03_Mich04,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.991738462,0.793225996,1
+Mich03_Mich07_rend_2018,Mich03_Mich07,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.837924261,0.422740884,0
+Mich03_Mich07_winter_2017_2018,Mich03_Mich07,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.963232197,0.781807604,0
+Mich03_Mich07_winter_2018_2019,Mich03_Mich07,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.931585766,0.334596266,0
+Mich03_Mich08_winter_2017_2018,Mich03_Mich08,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.995483731,0.845718742,0
+Mich03_Mich10_winter_2017_2018,Mich03_Mich10,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.99938955,0.997565948,1
+Mich03_Mich11_winter_2017_2018,Mich03_Mich11,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.937249974,0.814361459,0
+Mich03_Mich11_winter_2018_2019,Mich03_Mich11,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.894404892,0.475090769,0
+Mich03_Mich12_winter_2017_2018,Mich03_Mich12,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.942016795,0.719821825,1
+Mich05_Mich06_winter_2016_2017,Mich05_Mich06,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.928660889,0.596554268,1
+Mich05_Mich07_winter_2017_2018,Mich05_Mich07,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.898206162,0.697086238,0
+Mich05_Mich08_winter_2017_2018,Mich05_Mich08,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.945195307,0.699642537,0
+Mich05_Mich11_winter_2017_2018,Mich05_Mich11,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.929705992,0.668570809,0
+Mich07_Mich08_winter_2017_2018,Mich07_Mich08,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.949947086,0.73602435,0
+Mich07_Mich10_winter_2017_2018,Mich07_Mich10,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.978543596,0.801873506,0
+Mich07_Mich11_den_2018,Mich07_Mich11,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.882248357,0.187262394,0
+Mich07_Mich11_rend_2018,Mich07_Mich11,Mich,wolf,Ontario_Michipicoten,rend,nw,0,1,0,0.851537048,0.497077651,0
+Mich07_Mich11_winter_2017_2018,Mich07_Mich11,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.984127072,0.874069588,0
+Mich07_Mich11_winter_2018_2019,Mich07_Mich11,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.959502982,0.685596499,0
+Mich07_Mich12_den_2018,Mich07_Mich12,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.916961867,0.425465715,0
+Mich07_Mich12_winter_2017_2018,Mich07_Mich12,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.969390576,0.788542794,0
+Mich08_Mich11_winter_2017_2018,Mich08_Mich11,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.953779288,0.807723011,0
+Mich08_Mich12_winter_2017_2018,Mich08_Mich12,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.979704145,0.937338788,0
+Mich10_Mich11_winter_2017_2018,Mich10_Mich11,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.938731516,0.827894893,0
+Mich11_Mich12_den_2018,Mich11_Mich12,Mich,wolf,Ontario_Michipicoten,den,nw,1,0,0,0.846808685,0.231652115,0
+Mich11_Mich12_winter_2017_2018,Mich11_Mich12,Mich,wolf,Ontario_Michipicoten,winter,winter,0,0,1,0.972826442,0.872466101,0
+MIS11_MIS13_winter_2013_2014,MIS11_MIS13,Credit Valley,coyote,Ontario_Toronto,winter,winter,0,0,1,0.885500191,0.677630744,0
+N211_N212_winter_2003_2004,N211_N212,Brazeau,wolf,Alberta_W_above,winter,winter,0,0,1,0.948489122,0.697729685,1
+PEC001_PEC002_rend_2010,PEC001_PEC002,group1,coyote,Ontario_PrinceEdward,rend,nw,0,1,0,0.937476501,0.622797307,0
+PEC001_PEC002_winter_2010_2011,PEC001_PEC002,group1,coyote,Ontario_PrinceEdward,winter,winter,0,0,1,0.918342965,0.653549618,0
+PEC074_PEC079_den_2012,PEC074_PEC079,group2,coyote,Ontario_PrinceEdward,den,nw,1,0,0,0.927855605,0.482574364,0
+PEC074_PEC079_rend_2012,PEC074_PEC079,group2,coyote,Ontario_PrinceEdward,rend,nw,0,1,0,0.933164595,0.667302517,0
+PEC074_PEC079_winter_2011_2012,PEC074_PEC079,group2,coyote,Ontario_PrinceEdward,winter,winter,0,0,1,0.79591779,0.621247655,0
+PEC074_PEC082_den_2012,PEC074_PEC082,group2,coyote,Ontario_PrinceEdward,den,nw,1,0,0,0.813528822,0.34963627,0
+PEC074_PEC082_rend_2012,PEC074_PEC082,group2,coyote,Ontario_PrinceEdward,rend,nw,0,1,0,0.907738595,0.626786,0
+PEC074_PEC082_winter_2011_2012,PEC074_PEC082,group2,coyote,Ontario_PrinceEdward,winter,winter,0,0,1,0.853073414,0.684247101,0
+PEC079_PEC082_den_2012,PEC079_PEC082,group2,coyote,Ontario_PrinceEdward,den,nw,1,0,0,0.884102795,0.481257846,0
+PEC079_PEC082_rend_2012,PEC079_PEC082,group2,coyote,Ontario_PrinceEdward,rend,nw,0,1,0,0.946711606,0.637093994,0
+PEC079_PEC082_winter_2011_2012,PEC079_PEC082,group2,coyote,Ontario_PrinceEdward,winter,winter,0,0,1,0.959141111,0.776804503,0
+PEC080_PEC088_den_2012,PEC080_PEC088,group3,coyote,Ontario_PrinceEdward,den,nw,1,0,0,0.936352105,0.65748049,0
+PEC080_PEC088_rend_2012,PEC080_PEC088,group3,coyote,Ontario_PrinceEdward,rend,nw,0,1,0,0.831433574,0.449853881,0
+PEC080_PEC088_winter_2011_2012,PEC080_PEC088,group3,coyote,Ontario_PrinceEdward,winter,winter,0,0,1,0.940177289,0.704981325,0
+PEC081_PEC131_winter_2012_2013,PEC081_PEC131,group4,coyote,Ontario_PrinceEdward,winter,winter,0,0,1,0.873623555,0.500523498,0
+PEC105_PEC106_rend_2012,PEC105_PEC106,group5,coyote,Ontario_PrinceEdward,rend,nw,0,1,0,0.987532977,0.850816145,1
+PEC105_PEC106_winter_2012_2013,PEC105_PEC106,group5,coyote,Ontario_PrinceEdward,winter,winter,0,0,1,0.990508859,0.875544729,1
+pmC028_pmC029_winter_2012_2013,pmC028_pmC029,MahoneyP2,coyote,Utah,winter,winter,0,0,1,0.742314171,0.505725263,1
+pmC028_pmC029_winter_2013_2014,pmC028_pmC029,MahoneyP2,coyote,Utah,winter,winter,0,0,1,0.989766098,0.861184839,1
+rw11326M_rw11373M_rend_2007,rw11326M_rw11373M,Bluestone,wolf,NorthCarolina_AlligatorNWR,rend,nw,0,1,0,0.971036621,0.791908085,1
+rw11326M_rw11373M_winter_2007_2008,rw11326M_rw11373M,Bluestone,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.977167477,0.816491036,1
+rw11357F_rw11421M_den_2009,rw11357F_rw11421M,Milltail,wolf,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.922113867,0.56719899,1
+rw11357F_rw11421M_winter_2008_2009,rw11357F_rw11421M,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.967052256,0.564880606,1
+rw11357F_rw11544M_winter_2008_2009,rw11357F_rw11544M,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.987791991,0.914436505,1
+rw11357F_rw11660F_winter_2008_2009,rw11357F_rw11660F,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.721072871,0.519663028,0
+rw11357F_rw11661M_winter_2008_2009,rw11357F_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.704650503,0.482370232,0
+rw11421M_rw11544M_den_2009,rw11421M_rw11544M,Milltail,wolf,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.950272402,0.743505558,1
+rw11421M_rw11544M_rend_2009,rw11421M_rw11544M,Milltail,wolf,NorthCarolina_AlligatorNWR,rend,nw,0,1,0,0.944626409,0.752683844,1
+rw11421M_rw11544M_winter_2008_2009,rw11421M_rw11544M,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.938756783,0.693642799,1
+rw11421M_rw11660F_den_2009,rw11421M_rw11660F,Milltail,wolf,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.931549231,0.67617875,1
+rw11421M_rw11660F_winter_2008_2009,rw11421M_rw11660F,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.812537026,0.493023731,0
+rw11421M_rw11661M_den_2009,rw11421M_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.620002159,0.250211266,1
+rw11421M_rw11661M_rend_2009,rw11421M_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,rend,nw,0,1,0,0.744972223,0.364186356,1
+rw11421M_rw11661M_winter_2008_2009,rw11421M_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.751123989,0.438228803,0
+rw11458M_rw11630F_den_2010,rw11458M_rw11630F,Columbia,wolf,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.945757682,0.546277947,1
+rw11458M_rw11630F_rend_2010,rw11458M_rw11630F,Columbia,wolf,NorthCarolina_AlligatorNWR,rend,nw,0,1,0,0.926483101,0.540988181,1
+rw11458M_rw11630F_winter_2009_2010,rw11458M_rw11630F,Columbia,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.969027478,0.406003313,1
+rw11458M_rw11630F_winter_2010_2011,rw11458M_rw11630F,Columbia,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.773368118,0.483770172,1
+rw11544M_rw11660F_den_2009,rw11544M_rw11660F,Milltail,wolf,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.915679299,0.64003241,1
+rw11544M_rw11660F_rend_2009,rw11544M_rw11660F,Milltail,wolf,NorthCarolina_AlligatorNWR,rend,nw,0,1,0,0.907607466,0.58984432,1
+rw11544M_rw11660F_winter_2008_2009,rw11544M_rw11660F,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.811934345,0.655035144,0
+rw11544M_rw11660F_winter_2009_2010,rw11544M_rw11660F,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.886454018,0.665729517,1
+rw11544M_rw11661M_den_2009,rw11544M_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.626237424,0.413412865,1
+rw11544M_rw11661M_rend_2009,rw11544M_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,rend,nw,0,1,0,0.731756366,0.504605371,1
+rw11544M_rw11661M_winter_2008_2009,rw11544M_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.757848778,0.540094768,0
+rw11544M_rw11661M_winter_2009_2010,rw11544M_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.745499967,0.484139445,1
+rw11660F_rw11661M_den_2009,rw11660F_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.773737192,0.588096687,1
+rw11660F_rw11661M_rend_2009,rw11660F_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,rend,nw,0,1,0,0.845197405,0.620235385,1
+rw11660F_rw11661M_winter_2008_2009,rw11660F_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.956838175,0.775672045,0
+rw11660F_rw11661M_winter_2009_2010,rw11660F_rw11661M,Milltail,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.909539012,0.787940652,1
+rw11693F_rw11698M_den_2010,rw11693F_rw11698M,Beechridge,wolf,NorthCarolina_AlligatorNWR,den,nw,1,0,0,0.975968322,0.804392491,1
+rw11693F_rw11698M_rend_2010,rw11693F_rw11698M,Beechridge,wolf,NorthCarolina_AlligatorNWR,rend,nw,0,1,0,0.872336471,0.605859713,1
+rw11693F_rw11698M_winter_2009_2010,rw11693F_rw11698M,Beechridge,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.985377861,0.865888453,0
+rw11749M_rw11750M_winter_2009_2010,rw11749M_rw11750M,Swindell,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.900459741,0.571980772,0
+rw11766M_rw11768F_winter_2009_2010,rw11766M_rw11768F,Kilkenny,wolf,NorthCarolina_AlligatorNWR,winter,winter,0,0,1,0.977620093,0.70576309,0
+SC08M_SC11M_den_2015,SC08M_SC11M,Gaston,coyote,SouthCarolina_McCormick,den,nw,1,0,0,0.839601125,0.456446695,0
+SC08M_SC11M_rend_2015,SC08M_SC11M,Gaston,coyote,SouthCarolina_McCormick,rend,nw,0,1,0,0.906907694,0.631715549,0
+SC08M_SC11M_winter_2014_2015,SC08M_SC11M,Gaston,coyote,SouthCarolina_McCormick,winter,winter,0,0,1,0.752229391,0.538844179,0
+SC10F_SC13M_den_2015,SC10F_SC13M,Clayton,coyote,SouthCarolina_McCormick,den,nw,1,0,0,0.98944249,0.84125657,0
+SC10F_SC13M_den_2016,SC10F_SC13M,Clayton,coyote,SouthCarolina_McCormick,den,nw,1,0,0,0.89165132,0.513702091,1
+SC10F_SC13M_rend_2015,SC10F_SC13M,Clayton,coyote,SouthCarolina_McCormick,rend,nw,0,1,0,0.9941162,0.91498044,0
+SC10F_SC13M_rend_2016,SC10F_SC13M,Clayton,coyote,SouthCarolina_McCormick,rend,nw,0,1,0,0.954016115,0.766722993,1
+SC10F_SC13M_winter_2014_2015,SC10F_SC13M,Clayton,coyote,SouthCarolina_McCormick,winter,winter,0,0,1,0.963158426,0.654890201,0
+SC10F_SC13M_winter_2015_2016,SC10F_SC13M,Clayton,coyote,SouthCarolina_McCormick,winter,winter,0,0,1,0.991996739,0.877561183,0
+SC15F_SC21F_rend_2015,SC15F_SC21F,Zion Chapel,coyote,SouthCarolina_McCormick,rend,nw,0,1,0,0.816881685,0.616858451,0
+SC27M_SC31F_den_2016,SC27M_SC31F,Mt. Calvary,coyote,SouthCarolina_Johnston,den,nw,1,0,0,0.977602721,0.736250839,1
+SC27M_SC31F_rend_2016,SC27M_SC31F,Mt. Calvary,coyote,SouthCarolina_Johnston,rend,nw,0,1,0,0.990370903,0.862618593,1
+SC27M_SC31F_winter_2015_2016,SC27M_SC31F,Mt. Calvary,coyote,SouthCarolina_Johnston,winter,winter,0,0,1,0.979732366,0.827003503,0
+SC27M_SC31F_winter_2016_2017,SC27M_SC31F,Mt. Calvary,coyote,SouthCarolina_Johnston,winter,winter,0,0,1,0.992519783,0.838653997,1
+SC53M_SC54M_den_2016,SC53M_SC54M,Saluda,coyote,SouthCarolina_Johnston,den,nw,1,0,0,0.965913894,0.751543337,0
+SC53M_SC54M_rend_2016,SC53M_SC54M,Saluda,coyote,SouthCarolina_Johnston,rend,nw,0,1,0,0.981484944,0.777420067,0
+SC53M_SC54M_winter_2015_2016,SC53M_SC54M,Saluda,coyote,SouthCarolina_Johnston,winter,winter,0,0,1,0.975021185,0.723969436,0
+SC53M_SC54M_winter_2016_2017,SC53M_SC54M,Saluda,coyote,SouthCarolina_Johnston,winter,winter,0,0,1,0.971076494,0.740318368,0
+SCH_MLX_winter_2006_2007,SCH_MLX,ET,coyote,California_S_Corona,winter,winter,0,0,1,0.954985108,0.810535663,0
+STL_URS_den_2009,STL_URS,Caltrans,coyote,California_N_Corona,den,nw,1,0,0,0.816049536,0.402669427,1
+STL_URS_winter_2008_2009,STL_URS,Caltrans,coyote,California_N_Corona,winter,winter,0,0,1,0.633229734,0.386773519,1
+V027_V028_den_2015,V027_V028,Moose River,wolf,Minnesota_Voyageurs,den,nw,1,0,0,0.942375441,0.686045913,1
+V027_V028_winter_2014_2015,V027_V028,Moose River,wolf,Minnesota_Voyageurs,winter,winter,0,0,1,0.993061303,0.947735863,0
+V028_V048_rend_2016,V028_V048,Moose River,wolf,Minnesota_Voyageurs,rend,nw,0,1,0,0.929214766,0.710769923,0
+V046_V034_den_2017,V046_V034,Bowman Bay,wolf,Minnesota_Voyageurs,den,nw,1,0,0,0.909364768,0.3322186,1
+V055_V051_rend_2017,V055_V051,Sheep Ranch,wolf,Minnesota_Voyageurs,rend,nw,0,1,0,0.800386686,0.472880326,0
+V060_V062_rend_2018,V060_V062,Bowman Bay,wolf,Minnesota_Voyageurs,rend,nw,0,1,0,0.865937931,0.331899416,0
+V061_V064_den_2018,V061_V064,Sheep Ranch,wolf,Minnesota_Voyageurs,den,nw,1,0,0,0.921145301,0.368934349,0
+W015_W019_winter_2007_2008,W015_W019,murray,wolf,British_Columbia_E,winter,winter,0,0,1,0.992485609,0.851473464,1
+W016_W024_winter_2008_2009,W016_W024,chain,wolf,British_Columbia_E,winter,winter,0,0,1,0.953885544,0.722022659,1
+W016_W028_winter_2008_2009,W016_W028,chain,wolf,British_Columbia_E,winter,winter,0,0,1,0.939908359,0.696383086,1
+W024_W028_den_2009,W024_W028,chain,wolf,British_Columbia_E,den,nw,1,0,0,0.839121761,0.364991245,1
+W024_W028_rend_2009,W024_W028,chain,wolf,British_Columbia_E,rend,nw,0,1,0,0.959683683,0.66358927,1
+W024_W028_winter_2008_2009,W024_W028,chain,wolf,British_Columbia_E,winter,winter,0,0,1,0.748999466,0.364896902,1
+W024_W028_winter_2009_2010,W024_W028,chain,wolf,British_Columbia_E,winter,winter,0,0,1,0.982213076,0.824810319,1
+W025_W026_winter_2008_2009,W025_W026,onion,wolf,British_Columbia_E,winter,winter,0,0,1,0.986497614,0.778545085,0
+W046_W200_winter_2006_2007,W046_W200,Jocko,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.966372493,0.663424793,1
+W06_W07_den_2010,W06_W07,7-Mile Marsh Pack,wolf,Michigan_S_UP,den,nw,1,0,0,0.925404782,0.408739125,1
+W06_W07_rend_2010,W06_W07,7-Mile Marsh Pack,wolf,Michigan_S_UP,rend,nw,0,1,0,0.958666911,0.621521753,1
+W1001_W1003_rend_2018,W1001_W1003,Thornapple River,wolf,Wisconsin_NW,rend,nw,0,1,0,0.894531783,0.554075777,1
+w11_w16_den_2011,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,den,nw,1,0,0,0.976561631,0.775881247,1
+w11_w16_den_2012,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,den,nw,1,0,0,0.940077826,0.624904581,1
+w11_w16_den_2013,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,den,nw,1,0,0,0.978188016,0.777408127,1
+w11_w16_rend_2011,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,rend,nw,0,1,0,0.95805297,0.651546253,1
+w11_w16_rend_2012,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,rend,nw,0,1,0,0.939105328,0.766631157,1
+w11_w16_rend_2013,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,rend,nw,0,1,0,0.987762183,0.780899522,1
+w11_w16_winter_2010_2011,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.984057614,0.652982613,1
+w11_w16_winter_2011_2012,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.995725671,0.869519145,1
+w11_w16_winter_2012_2013,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.992020367,0.889980359,1
+w11_w16_winter_2013_2014,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.999185791,0.957658171,1
+w11_w16_winter_2014_2015,w11_w16,amyot,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.994723216,0.842138506,1
+W110_W116_den_2007,W110_W116,Kakwa,wolf,Alberta_W_above,den,nw,1,0,0,0.963254143,0.691242261,1
+W110_W116_winter_2006_2007,W110_W116,Kakwa,wolf,Alberta_W_above,winter,winter,0,0,1,0.993915262,0.954810127,1
+w1128_w1329_den_2007,w1128_w1329,amyot,wolf,Sasketchewan_Prince_Albert,den,nw,1,0,0,0.942432365,0.651191078,1
+w1128_w1329_rend_2007,w1128_w1329,amyot,wolf,Sasketchewan_Prince_Albert,rend,nw,0,1,0,0.961515911,0.739846368,1
+w1128_w1329_winter_2006_2007,w1128_w1329,amyot,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.985395486,0.732923493,1
+w1128_w1329_winter_2007_2008,w1128_w1329,amyot,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.940065968,0.759289648,1
+W11535_W4364C_den_2013,W11535_W4364C,VezII,wolf,N_Portugal,den,nw,1,0,0,0.857922392,0.544890623,1
+W11535_W4364C_rend_2013,W11535_W4364C,VezII,wolf,N_Portugal,rend,nw,0,1,0,0.954670253,0.73252547,1
+W11535_W4364C_winter_2012_2013,W11535_W4364C,VezII,wolf,N_Portugal,winter,winter,0,0,1,0.797732998,0.442553978,1
+W1158_W1684_den_2018,W1158_W1684,Luna,wolf,Arizona_NewMexico,den,nw,1,0,0,0.942301268,0.613115429,0
+W1158_W1684_rend_2018,W1158_W1684,Luna,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.951794159,0.742109035,0
+W1158_W1684_winter_2017_2018,W1158_W1684,Luna,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.980228302,0.68325718,0
+W1240_W1278_den_2016,W1240_W1278,Iron Creek,wolf,Arizona_NewMexico,den,nw,1,0,0,0.964368193,0.549563416,1
+W1240_W1278_rend_2016,W1240_W1278,Iron Creek,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.98416407,0.406195071,1
+W1240_W1278_winter_2015_2016,W1240_W1278,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999716514,0.997081175,1
+W1249_W1437_winter_2015_2016,W1249_W1437,Diamond,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999952997,0.998905464,1
+W1251_W1565_rend_2017,W1251_W1565,Prieto,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.973333452,0.724801402,0
+W1251_W1565_winter_2016_2017,W1251_W1565,Prieto,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.998514854,0.994319596,0
+W1251_W1565_winter_2017_2018,W1251_W1565,Prieto,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999223179,0.997572173,0
+W1251_W1669_den_2018,W1251_W1669,Prieto,wolf,Arizona_NewMexico,den,nw,1,0,0,0.922587019,0.266273456,0
+W1251_W1669_rend_2018,W1251_W1669,Prieto,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.988510314,0.843351136,0
+W1251_W1669_winter_2017_2018,W1251_W1669,Prieto,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.991106544,0.932224991,0
+W1251_W1669_winter_2018_2019,W1251_W1669,Prieto,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.966788867,0.839260324,0
+W1251_W1678_den_2018,W1251_W1678,Prieto,wolf,Arizona_NewMexico,den,nw,1,0,0,0.872195641,0.55145743,0
+W1251_W1678_winter_2017_2018,W1251_W1678,Prieto,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.99328973,0.87252431,0
+W1278_W1555_rend_2018,W1278_W1555,Iron Creek,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.969385439,0.897578528,1
+W1278_W1555_winter_2017_2018,W1278_W1555,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.925482043,0.631744582,0
+W1278_W1555_winter_2018_2019,W1278_W1555,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.918734242,0.623808886,1
+W1278_W1556_den_2018,W1278_W1556,Iron Creek,wolf,Arizona_NewMexico,den,nw,1,0,0,0.659868896,0.198655138,1
+W1278_W1556_rend_2018,W1278_W1556,Iron Creek,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.914076148,0.582077331,1
+W1278_W1556_winter_2017_2018,W1278_W1556,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.841742124,0.579080223,0
+W1278_W1710_winter_2018_2019,W1278_W1710,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.862373514,0.632604572,0
+W1278_W1821_rend_2018,W1278_W1821,Iron Creek,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.997607851,0.786920433,0
+W1278_W1821_winter_2018_2019,W1278_W1821,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.950614758,0.747975328,0
+W1296_W1439_den_2016,W1296_W1439,Mangas,wolf,Arizona_NewMexico,den,nw,1,0,0,0.999867949,0.997693152,1
+W1296_W1439_rend_2017,W1296_W1439,Mangas,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.990547586,0.817107273,1
+W1296_W1439_winter_2015_2016,W1296_W1439,Mangas,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999299589,0.901530637,1
+W1296_W1439_winter_2017_2018,W1296_W1439,Mangas,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999502433,0.984373322,1
+W1296_W1664_den_2018,W1296_W1664,Mangas,wolf,Arizona_NewMexico,den,nw,1,0,0,0.754130877,0.304855453,0
+W1296_W1664_rend_2018,W1296_W1664,Mangas,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.949807027,0.70939469,0
+W1296_W1664_winter_2017_2018,W1296_W1664,Mangas,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.90046764,0.412465454,0
+W1333_W1677_den_2018,W1333_W1677,Hoodoo,wolf,Arizona_NewMexico,den,nw,1,0,0,0.948455021,0.420203678,0
+W1333_W1677_rend_2018,W1333_W1677,Hoodoo,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.977949969,0.606777492,0
+W1333_W1681_den_2018,W1333_W1681,Hoodoo,wolf,Arizona_NewMexico,den,nw,1,0,0,0.95867895,0.60826916,0
+W1333_W1681_rend_2018,W1333_W1681,Hoodoo,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.994975254,0.896741603,0
+W1333_W1789_rend_2018,W1333_W1789,Hoodoo,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.946066182,0.60443508,0
+W1333_W1789_winter_2018_2019,W1333_W1789,Hoodoo,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.94730362,0.753488525,0
+W1346_W1561_den_2017,W1346_W1561,Leopold,wolf,Arizona_NewMexico,den,nw,1,0,0,0.985446395,0.972629388,0
+W1346_W1561_rend_2017,W1346_W1561,Leopold,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.982989405,0.93415991,0
+W1346_W1561_winter_2016_2017,W1346_W1561,Leopold,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.99724867,0.99356263,0
+W1346_W1561_winter_2017_2018,W1346_W1561,Leopold,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.961810676,0.866986796,0
+W1383_W1439_rend_2015,W1383_W1439,Hawks Nest,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.983917211,0.658508574,0
+W1383_W1453_winter_2015_2016,W1383_W1453,Hawks Nest,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.998549132,0.944389956,0
+W1394_W1825_winter_2018_2019,W1394_W1825,Pine Spring,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.991647056,0.849117311,0
+W1399_W1578_rend_2018,W1399_W1578,San Mateo,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.981371607,0.750341253,0
+W1399_W1578_winter_2017_2018,W1399_W1578,San Mateo,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.986779409,0.919369338,0
+W1399_W1578_winter_2018_2019,W1399_W1578,San Mateo,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.959274875,0.763053376,0
+w140004_w140009_den_2014,w140004_w140009,Brabant,wolf,Sasketchewan_N,den,nw,1,0,0,0.949474638,0.675768798,1
+w140004_w140009_winter_2013_2014,w140004_w140009,Brabant,wolf,Sasketchewan_N,winter,winter,0,0,1,0.978358796,0.809387451,1
+w140004_w140009_winter_2015_2016,w140004_w140009,Brabant,wolf,Sasketchewan_N,winter,winter,0,0,1,0.996440708,0.899623001,1
+w140008_w140031_den_2015,w140008_w140031,Davin,wolf,Sasketchewan_N,den,nw,1,0,0,0.908623814,0.565543539,1
+w140008_w140031_winter_2014_2015,w140008_w140031,Davin,wolf,Sasketchewan_N,winter,winter,0,0,1,0.935344344,0.482347869,1
+w140010_w140037_den_2015,w140010_w140037,Wathaman,wolf,Sasketchewan_N,den,nw,1,0,0,0.781280775,0.413017673,1
+w140010_w140037_rend_2015,w140010_w140037,Wathaman,wolf,Sasketchewan_N,rend,nw,0,1,0,0.962246647,0.745381384,1
+w140010_w140037_winter_2014_2015,w140010_w140037,Wathaman,wolf,Sasketchewan_N,winter,winter,0,0,1,0.993892019,0.855304035,1
+w140010_w140037_winter_2015_2016,w140010_w140037,Wathaman,wolf,Sasketchewan_N,winter,winter,0,0,1,0.99627538,0.866952491,1
+w140014_w140015_den_2014,w140014_w140015,Southend,wolf,Sasketchewan_N,den,nw,1,0,0,0.782479763,0.410014402,1
+w140014_w140015_rend_2014,w140014_w140015,Southend,wolf,Sasketchewan_N,rend,nw,0,1,0,0.806592422,0.398446257,1
+w140014_w140015_winter_2013_2014,w140014_w140015,Southend,wolf,Sasketchewan_N,winter,winter,0,0,1,0.998058995,0.673071365,0
+w140014_w140015_winter_2014_2015,w140014_w140015,Southend,wolf,Sasketchewan_N,winter,winter,0,0,1,0.994762241,0.786555915,1
+w140014_w140029_winter_2014_2015,w140014_w140029,Southend,wolf,Sasketchewan_N,winter,winter,0,0,1,0.998681703,0.929971362,1
+w140018_w140008_winter_2013_2014,w140018_w140008,Davin,wolf,Sasketchewan_N,winter,winter,0,0,1,0.9831378,0.764255404,1
+w140020_w140021_rend_2015,w140020_w140021,Geikie,wolf,Sasketchewan_N,rend,nw,0,1,0,0.622515814,0.254376563,1
+w140020_w140021_winter_2014_2015,w140020_w140021,Geikie,wolf,Sasketchewan_N,winter,winter,0,0,1,0.999244021,0.947988094,1
+w140026_w140027_den_2014,w140026_w140027,Orphan,wolf,Sasketchewan_N,den,nw,1,0,0,0.99462517,0.902694177,1
+w140026_w140027_rend_2014,w140026_w140027,Orphan,wolf,Sasketchewan_N,rend,nw,0,1,0,0.999386746,0.964468127,1
+w140026_w140027_winter_2013_2014,w140026_w140027,Orphan,wolf,Sasketchewan_N,winter,winter,0,0,1,0.997545228,0.890775504,1
+w140030_w140032_winter_2014_2015,w140030_w140032,Key West2,wolf,Sasketchewan_N,winter,winter,0,0,1,0.983523922,0.844438928,1
+W1404_W1405_den_2016,W1404_W1405,Buckalou,wolf,Arizona_NewMexico,den,nw,1,0,0,0.999317137,0.9931568,1
+W1404_W1405_winter_2015_2016,W1404_W1405,Buckalou,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999909276,0.997566021,1
+W1404_W1443_winter_2015_2016,W1404_W1443,Bluestem,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999191065,0.993966626,1
+W1439_W1705_rend_2018,W1439_W1705,Mangas,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.995714685,0.953196368,0
+W1440_W1442_winter_2015_2016,W1440_W1442,Marble,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.990436842,0.82548062,0
+W1441_W1550_rend_2016,W1441_W1550,Hoodoo,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.562167442,0.159988401,0
+W1441_W1550_winter_2016_2017,W1441_W1550,Hoodoo,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.962080726,0.789145562,0
+W1441_W1680_den_2018,W1441_W1680,Saffel,wolf,Arizona_NewMexico,den,nw,1,0,0,0.971463243,0.824502921,0
+W1441_W1680_rend_2018,W1441_W1680,Saffel,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.994205589,0.851628303,0
+W1441_W1680_winter_2017_2018,W1441_W1680,Saffel,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.983430381,0.895296874,0
+W1441_W1792_rend_2018,W1441_W1792,Saffel,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.937728289,0.482943167,0
+W1441_W1792_winter_2018_2019,W1441_W1792,Saffel,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.975771296,0.787485291,0
+W1453_W1685_rend_2018,W1453_W1685,Datil Mountain,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.999510759,0.868543628,1
+W1453_W1685_winter_2018_2019,W1453_W1685,Datil Mountain,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999642714,0.996473148,1
+W1471_W1671_winter_2017_2018,W1471_W1671,Elk Horn,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999382539,0.979399265,0
+W1488_W1489_den_2016,W1488_W1489,Bluestem,wolf,Arizona_NewMexico,den,nw,1,0,0,0.90280401,0.381930579,1
+W1489_W1563_rend_2017,W1489_W1563,Bluestem,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.863441773,0.604393984,0
+W14-Noah_W15-Grga_winter_2006_2007,W14-Noah_W15-Grga,Suho,wolf,Croatia_Slovenia,winter,winter,0,0,1,0.95504724,0.840121179,0
+W1550_W1333_rend_2017,W1550_W1333,Hoodoo,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.973092121,0.885921687,0
+W1550_W1571_den_2018,W1550_W1571,Hoodoo,wolf,Arizona_NewMexico,den,nw,1,0,0,0.999558998,0.967587679,0
+W1550_W1571_rend_2018,W1550_W1571,Sierra Blanca,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.98999954,0.940854159,0
+W1550_W1571_winter_2018_2019,W1550_W1571,Sierra Blanca,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.999800186,0.994504827,0
+W1555_W1670_den_2018,W1555_W1670,Iron Creek,wolf,Arizona_NewMexico,den,nw,1,0,0,0.974498523,0.668563734,1
+W1555_W1670_rend_2018,W1555_W1670,Iron Creek,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.969056514,0.673502748,1
+W1555_W1670_winter_2017_2018,W1555_W1670,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.937220363,0.743041943,0
+W1555_W1710_winter_2018_2019,W1555_W1710,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.892613631,0.556240981,0
+W1555_W1721_winter_2018_2019,W1555_W1721,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.934282168,0.706134864,0
+W1555_W1821_rend_2018,W1555_W1821,Iron Creek,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.990199465,0.813957367,0
+W1555_W1821_winter_2018_2019,W1555_W1821,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.995656506,0.926203167,0
+W1556_W1555_rend_2018,W1556_W1555,Iron Creek,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.807158675,0.515359666,1
+W1556_W1555_winter_2017_2018,W1556_W1555,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.720279918,0.27079799,0
+W1557_W1571_winter_2016_2017,W1557_W1571,Diamond,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.994473507,0.840032008,0
+W1562_W1563_winter_2016_2017,W1562_W1563,Bluestem,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.95872864,0.723295652,0
+W1565_W1669_winter_2017_2018,W1565_W1669,Prieto,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.993127468,0.876864166,0
+W1565_W1678_winter_2017_2018,W1565_W1678,Prieto,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.98110599,0.886363041,0
+W1567_W1441_winter_2017_2018,W1567_W1441,Saffel,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.987049613,0.850056175,1
+W1567_W1680_winter_2017_2018,W1567_W1680,Saffel,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.95416085,0.80165606,0
+W1570_W1571_winter_2016_2017,W1570_W1571,Diamond,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.946872392,0.861223968,0
+W1667_W1682_winter_2017_2018,W1667_W1682,SBP,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.995211414,0.928542086,0
+W1669_W1678_den_2018,W1669_W1678,Prieto,wolf,Arizona_NewMexico,den,nw,1,0,0,0.956800517,0.387134301,0
+W1669_W1678_winter_2017_2018,W1669_W1678,Prieto,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.989366454,0.856000998,0
+W1676_W1683_den_2018,W1676_W1683,Bear Wallow,wolf,Arizona_NewMexico,den,nw,1,0,0,0.99787328,0.956070812,0
+W1676_W1683_winter_2017_2018,W1676_W1683,Bear Wallow,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.745404189,0.439808187,0
+W1677_W1681_den_2018,W1677_W1681,Hoodoo,wolf,Arizona_NewMexico,den,nw,1,0,0,0.959503932,0.691706307,0
+W1677_W1681_rend_2018,W1677_W1681,Hoodoo,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.987773403,0.82015928,0
+W1677_W1681_winter_2017_2018,W1677_W1681,Hoodoo,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.988468706,0.925755915,0
+W1677_W1681_winter_2018_2019,W1677_W1681,Hoodoo,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.99510107,0.923130785,0
+W1680_W1792_rend_2018,W1680_W1792,Saffel,wolf,Arizona_NewMexico,rend,nw,0,1,0,0.93863295,0.545651411,0
+W1695_W1696_winter_2018_2019,W1695_W1696,Elk Horn,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.909835568,0.521983712,0
+W1695_W1697_winter_2018_2019,W1695_W1697,Elk Horn,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.99659009,0.912304031,0
+W1696_W1697_winter_2018_2019,W1696_W1697,Elk Horn,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.900497916,0.616783092,0
+W1710_W1821_winter_2018_2019,W1710_W1821,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.821144538,0.497930157,0
+W1721_W1821_winter_2018_2019,W1721_W1821,Iron Creek,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.905158269,0.682679812,0
+W1790_W1823_winter_2018_2019,W1790_W1823,Prime Canyon,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.996439093,0.945607619,0
+W18-Max_W19-Rina_rend_2008,W18-Max_W19-Rina,Risnjak,wolf,Croatia_Slovenia,rend,nw,0,1,0,0.851970097,0.483096139,1
+W18-Max_W19-Rina_winter_2008_2009,W18-Max_W19-Rina,Risnjak,wolf,Croatia_Slovenia,winter,winter,0,0,1,0.999520068,0.960876846,1
+w201401_w201501_den_2015,w201401_w201501,Sandy Beach,wolf,Alaska_PrinceOfWalesIsland,den,nw,1,0,0,0.977809894,0.902081285,1
+w201401_w201501_rend_2015,w201401_w201501,Sandy Beach,wolf,Alaska_PrinceOfWalesIsland,rend,nw,0,1,0,0.997992853,0.953580736,1
+w201401_w201501_winter_2015_2016,w201401_w201501,Sandy Beach,wolf,Alaska_PrinceOfWalesIsland,winter,winter,0,0,1,0.999767221,0.971318524,1
+W210_W259_winter_2009_2010,W210_W259,Sunday,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.9786006,0.743984581,1
+W214_W224_winter_2008_2009,W214_W224,Potter,wolf,Ontario_Algonquin_Kawartha,winter,winter,0,0,1,0.871998519,0.621795034,1
+W22758_W22762_den_2017,W22758_W22762,Chernobyl3,wolf,Chernobyl,den,nw,1,0,0,0.691023152,0.457422589,1
+W22758_W22762_rend_2017,W22758_W22762,Chernobyl3,wolf,Chernobyl,rend,nw,0,1,0,0.919085127,0.677875074,1
+W22758_W22762_winter_2016_2017,W22758_W22762,Chernobyl3,wolf,Chernobyl,winter,winter,0,0,1,0.981353827,0.89737785,1
+W22759_W22760_winter_2016_2017,W22759_W22760,Chernobyl2,wolf,Chernobyl,winter,winter,0,0,1,0.86054014,0.705790386,1
+W22759_W22761_winter_2016_2017,W22759_W22761,Chernobyl2,wolf,Chernobyl,winter,winter,0,0,1,0.917838117,0.715376895,0
+W22760_W22761_winter_2016_2017,W22760_W22761,Chernobyl2,wolf,Chernobyl,winter,winter,0,0,1,0.947485202,0.700217345,0
+w25_w27_winter_2014_2015,w25_w27,nesslin,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.994924824,0.905500743,1
+w25_w37_winter_2014_2015,w25_w37,nesslin,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.988469128,0.858882977,1
+w26_w27_winter_2013_2014,w26_w27,nesslin,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.975175213,0.802148606,1
+W26_W28_winter_2009_2010,W26_W28,Wichcika,wolf,British_Columbia_NE_PrinceGeorge,winter,winter,0,0,1,0.998365564,0.901037243,0
+w27_w37_winter_2014_2015,w27_w37,nesslin,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.991002408,0.87431288,1
+W27_W87_winter_2009_2010,W27_W87,Esnagami,wolf,Ontario_N,winter,winter,0,0,1,0.950487369,0.694160047,1
+W30226_W33651_den_2014,W30226_W33651,Cleve1,coyote,Ohio_N_Cleveland,den,nw,1,0,0,0.926293991,0.653713768,1
+W30226_W33651_rend_2014,W30226_W33651,Cleve1,coyote,Ohio_N_Cleveland,rend,nw,0,1,0,0.963760143,0.714051887,1
+W30226_W33651_winter_2013_2014,W30226_W33651,Cleve1,coyote,Ohio_N_Cleveland,winter,winter,0,0,1,0.843875898,0.481791947,0
+W32251_W32262_den_2012,W32251_W32262,McLelland,wolf,Alberta_NE,den,nw,1,0,0,0.96298572,0.646768816,1
+W32251_W32262_rend_2012,W32251_W32262,McLelland,wolf,Alberta_NE,rend,nw,0,1,0,0.918513733,0.650807504,1
+W32251_W32262_winter_2011_2012,W32251_W32262,McLelland,wolf,Alberta_NE,winter,winter,0,0,1,0.910816428,0.554442103,1
+W32251_W32262_winter_2012_2013,W32251_W32262,McLelland,wolf,Alberta_NE,winter,winter,0,0,1,0.996126529,0.89124954,1
+W32252_W32266_den_2012,W32252_W32266,Ells,wolf,Alberta_NE,den,nw,1,0,0,0.871401614,0.292724846,1
+W32252_W32266_rend_2012,W32252_W32266,Ells,wolf,Alberta_NE,rend,nw,0,1,0,0.827302195,0.571432218,1
+W32252_W32266_winter_2011_2012,W32252_W32266,Ells,wolf,Alberta_NE,winter,winter,0,0,1,0.89426906,0.678527792,1
+W32252_W32266_winter_2012_2013,W32252_W32266,Ells,wolf,Alberta_NE,winter,winter,0,0,1,0.826970844,0.464375261,1
+W32252_W33673_winter_2012_2013,W32252_W33673,Ells,wolf,Alberta_NE,winter,winter,0,0,1,0.763881206,0.446057838,0
+W32255_W32270_den_2012,W32255_W32270,Grand Rapids,wolf,Alberta_NE,den,nw,1,0,0,0.923984568,0.630634014,1
+W32255_W32270_rend_2012,W32255_W32270,Grand Rapids,wolf,Alberta_NE,rend,nw,0,1,0,0.991788125,0.707396176,1
+W32255_W32270_winter_2011_2012,W32255_W32270,Grand Rapids,wolf,Alberta_NE,winter,winter,0,0,1,0.997228202,0.912682949,1
+W32255_W32270_winter_2012_2013,W32255_W32270,Grand Rapids,wolf,Alberta_NE,winter,winter,0,0,1,0.998511829,0.91864387,1
+W32256_W32257_den_2012,W32256_W32257,North,wolf,Alberta_NE,den,nw,1,0,0,0.96063665,0.657806629,1
+W32256_W32257_rend_2012,W32256_W32257,North,wolf,Alberta_NE,rend,nw,0,1,0,0.943270689,0.528913091,1
+W32256_W32257_winter_2011_2012,W32256_W32257,North,wolf,Alberta_NE,winter,winter,0,0,1,0.947572037,0.598903687,1
+W32256_W32264_den_2012,W32256_W32264,North,wolf,Alberta_NE,den,nw,1,0,0,0.900631074,0.574539714,1
+W32256_W32264_rend_2012,W32256_W32264,North,wolf,Alberta_NE,rend,nw,0,1,0,0.967075484,0.793103327,1
+W32256_W32264_winter_2011_2012,W32256_W32264,North,wolf,Alberta_NE,winter,winter,0,0,1,0.968163122,0.800966344,1
+W32257_W32264_den_2012,W32257_W32264,North,wolf,Alberta_NE,den,nw,1,0,0,0.89911858,0.554014876,1
+W32257_W32264_rend_2012,W32257_W32264,North,wolf,Alberta_NE,rend,nw,0,1,0,0.939393635,0.482004629,1
+W32257_W32264_winter_2011_2012,W32257_W32264,North,wolf,Alberta_NE,winter,winter,0,0,1,0.939336552,0.601219403,1
+W32258_W32261a_winter_2011_2012,W32258_W32261a,Steepbank,wolf,Alberta_NE,winter,winter,0,0,1,0.995660707,0.890234488,1
+W32263a_W32260_den_2012,W32263a_W32260,Clearwater,wolf,Alberta_NE,den,nw,1,0,0,0.798366864,0.562574773,1
+W32263a_W32260_winter_2011_2012,W32263a_W32260,Clearwater,wolf,Alberta_NE,winter,winter,0,0,1,0.884905589,0.625430283,1
+W32265_W32268_winter_2011_2012,W32265_W32268,Horizon,wolf,Alberta_NE,winter,winter,0,0,1,0.901272969,0.636464767,1
+W32267_W32253_winter_2011_2012,W32267_W32253,South Athabasca,wolf,Alberta_NE,winter,winter,0,0,1,0.978476364,0.773007227,1
+W32269_W32259_den_2012,W32269_W32259,McKay,wolf,Alberta_NE,den,nw,1,0,0,0.736770647,0.566853059,1
+W32269_W32259_winter_2011_2012,W32269_W32259,McKay,wolf,Alberta_NE,winter,winter,0,0,1,0.976774609,0.720557107,1
+W402_W403_winter_2011_2012,W402_W403,Tundra1,wolf,NWT_NE,winter,winter,0,0,1,0.996773856,0.954735832,1
+W404_W405_winter_2011_2012,W404_W405,Tundra2,wolf,NWT_NE,winter,winter,0,0,1,0.960690691,0.717057559,1
+W407_W408_winter_2011_2012,W407_W408,Tundra3,wolf,NWT_NE,winter,winter,0,0,1,0.997391981,0.84821779,1
+W409_W412_winter_2011_2012,W409_W412,Tundra4,wolf,NWT_NE,winter,winter,0,0,1,0.876016041,0.334736939,1
+W417_W418_winter_2011_2012,W417_W418,Tundra5,wolf,NWT_NE,winter,winter,0,0,1,0.994810978,0.89714083,1
+W440m_W445_den_2015,W440m_W445,Axel Heiberg,wolf,Ellesmere,den,nw,1,0,0,0.927506837,0.574476087,1
+W448f_W449m_rend_2017,W448f_W449m,Eureka,wolf,Ellesmere,rend,nw,0,1,0,0.997913454,0.821534814,1
+W448f_W449m_winter_2017_2018,W448f_W449m,Eureka,wolf,Ellesmere,winter,winter,0,0,1,0.998723487,0.962289397,1
+w6_w14_den_2011,w6_w14,maybe amyot,wolf,Sasketchewan_Prince_Albert,den,nw,1,0,0,0.953729287,0.715779314,1
+w6_w14_rend_2011,w6_w14,maybe amyot,wolf,Sasketchewan_Prince_Albert,rend,nw,0,1,0,0.985265807,0.825721526,1
+w6_w14_winter_2010_2011,w6_w14,maybe amyot,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.984587858,0.672006625,1
+w6_w14_winter_2011_2012,w6_w14,maybe amyot,wolf,Sasketchewan_Prince_Albert,winter,winter,0,0,1,0.941607038,0.731263096,1
+W602_W603_winter_2015_2016,W602_W603,Pine Point,wolf,NWT_GreatSlaveLake,winter,winter,0,0,1,0.855698573,0.684495619,1
+W604_W605_den_2016,W604_W605,Tathlina Lake,wolf,NWT_GreatSlaveLake,den,nw,1,0,0,0.873869641,0.53975572,1
+W604_W605_rend_2016,W604_W605,Tathlina Lake,wolf,NWT_GreatSlaveLake,rend,nw,0,1,0,0.863337295,0.5565186,1
+W604_W605_winter_2015_2016,W604_W605,Tathlina Lake,wolf,NWT_GreatSlaveLake,winter,winter,0,0,1,0.997970955,0.925430994,0
+W604_W605_winter_2016_2017,W604_W605,Tathlina Lake,wolf,NWT_GreatSlaveLake,winter,winter,0,0,1,0.998178411,0.956060693,1
+w65_w77_winter_2003_2004,w65_w77,Ya Ha Tinda,wolf,Alberta_W_YaHaTinda,winter,winter,0,0,1,0.927445399,0.604751284,0
+W702_W703_den_2017,W702_W703,Falaise Lake,wolf,NWT_GreatSlaveLake,den,nw,1,0,0,0.782315992,0.311219315,1
+W702_W703_winter_2016_2017,W702_W703,Falaise Lake,wolf,NWT_GreatSlaveLake,winter,winter,0,0,1,0.995575284,0.825605264,1
+W704_W705_winter_2016_2017,W704_W705,Buffalo Lake,wolf,NWT_GreatSlaveLake,winter,winter,0,0,1,0.992304128,0.825797305,1
+W706_W707_den_2017,W706_W707,Boulogne Lake,wolf,NWT_GreatSlaveLake,den,nw,1,0,0,0.864736959,0.505823453,1
+W706_W707_rend_2017,W706_W707,Boulogne Lake,wolf,NWT_GreatSlaveLake,rend,nw,0,1,0,0.93811375,0.62571341,1
+W706_W707_winter_2016_2017,W706_W707,Boulogne Lake,wolf,NWT_GreatSlaveLake,winter,winter,0,0,1,0.89168825,0.386672481,1
+w7248_w7264_rend_2017,w7248_w7264,PikeB,wolf,Minnesota_N_central,rend,nw,0,1,0,0.922804986,0.51244706,1
+w7248_w7264_winter_2017_2018,w7248_w7264,PikeB,wolf,Minnesota_N_central,winter,winter,0,0,1,0.993794367,0.906475175,1
+w77_w80_den_2004,w77_w80,Ya Ha Tinda,wolf,Alberta_W_YaHaTinda,den,nw,1,0,0,0.910944274,0.606688145,0
+w77_w80_rend_2004,w77_w80,Ya Ha Tinda,wolf,Alberta_W_YaHaTinda,rend,nw,0,1,0,0.972851841,0.678388871,0
+w77_w80_winter_2003_2004,w77_w80,Ya Ha Tinda,wolf,Alberta_W_YaHaTinda,winter,winter,0,0,1,0.988970335,0.866312508,0
+w77_w86_rend_2004,w77_w86,Ya Ha Tinda,wolf,Alberta_W_YaHaTinda,rend,nw,0,1,0,0.988575212,0.801587973,0
+w80_w86_rend_2004,w80_w86,Ya Ha Tinda,wolf,Alberta_W_YaHaTinda,rend,nw,0,1,0,0.968150198,0.738523801,0
+w81_w82_den_2004,w81_w82,Red Deer,wolf,Alberta_W_YaHaTinda,den,nw,1,0,0,0.860334997,0.402258697,0
+w81_w82_rend_2004,w81_w82,Red Deer,wolf,Alberta_W_YaHaTinda,rend,nw,0,1,0,0.946057595,0.447662342,0
+w81_w82_winter_2003_2004,w81_w82,Red Deer,wolf,Alberta_W_YaHaTinda,winter,winter,0,0,1,0.961535179,0.645624822,0
+w81_w84_den_2004,w81_w84,Red Deer,wolf,Alberta_W_YaHaTinda,den,nw,1,0,0,0.891614284,0.367848112,0
+w81_w84_rend_2004,w81_w84,Red Deer,wolf,Alberta_W_YaHaTinda,rend,nw,0,1,0,0.907485254,0.527153704,0
+w82_w84_den_2004,w82_w84,Red Deer,wolf,Alberta_W_YaHaTinda,den,nw,1,0,0,0.909288737,0.483072365,0
+w82_w84_rend_2004,w82_w84,Red Deer,wolf,Alberta_W_YaHaTinda,rend,nw,0,1,0,0.892770458,0.37785218,0
+W848_W943_winter_2017_2018,W848_W943,Price Creek,wolf,Wisconsin_NW,winter,winter,0,0,1,0.912987242,0.429147102,0
+W848_W956_winter_2017_2018,W848_W956,Price Creek,wolf,Wisconsin_NW,winter,winter,0,0,1,0.928676309,0.748102723,1
+W900_W911_rend_2016,W900_W911,Torch River West,wolf,Wisconsin_NW,rend,nw,0,1,0,0.995401895,0.913067638,0
+W900_W911_winter_2016_2017,W900_W911,Torch River West,wolf,Wisconsin_NW,winter,winter,0,0,1,0.88994491,0.695828339,0
+W913_W21885_rend_2016,W913_W21885,Ghost Lake,wolf,Wisconsin_NW,rend,nw,0,1,0,0.99710085,0.813204824,1
+W913_W21885_winter_2016_2017,W913_W21885,Ghost Lake,wolf,Wisconsin_NW,winter,winter,0,0,1,0.970593979,0.856335601,1
+W914_W915_winter_2015_2016,W914_W915,Wildcat Mound,wolf,Wisconsin_central,winter,winter,0,0,1,0.887910511,0.68331692,1
+W915_W916_rend_2017,W915_W916,Wildcat Mound,wolf,Wisconsin_central,rend,nw,0,1,0,0.897527969,0.681350952,0
+W923_W1444_winter_2015_2016,W923_W1444,Dark Canyon,wolf,Arizona_NewMexico,winter,winter,0,0,1,0.988917238,0.901060008,0
+w935m_w936m_winter_2013_2014,w935m_w936m,Blackrock,wolf,Wyoming,winter,winter,0,0,1,0.997313399,0.963488098,0
+W948_W951_rend_2017,W948_W951,Muck Lake,wolf,Wisconsin_NW,rend,nw,0,1,0,0.960156176,0.724044857,0
+W948_W951_winter_2017_2018,W948_W951,Muck Lake,wolf,Wisconsin_NW,winter,winter,0,0,1,0.970771806,0.753499628,0
+W955_W992_rend_2018,W955_W992,Little Moose River,wolf,Wisconsin_NW,rend,nw,0,1,0,0.862800615,0.458682308,0
+W955_W999_winter_2018_2019,W955_W999,Little Moose River,wolf,Wisconsin_NW,winter,winter,0,0,1,0.943952686,0.564636609,0
+w955f_w956f_den_2014,w955f_w956f,Lava Mountain,wolf,Wyoming,den,nw,1,0,0,0.948293469,0.578677756,1
+w955f_w956f_winter_2013_2014,w955f_w956f,Lava Mountain,wolf,Wyoming,winter,winter,0,0,1,0.991589621,0.86080906,1
+W962_W977_den_2018,W962_W977,Spread Eagle Barrens,wolf,Wisconsin_NE,den,nw,1,0,0,0.959614167,0.590345872,1
+W962_W977_rend_2018,W962_W977,Spread Eagle Barrens,wolf,Wisconsin_NE,rend,nw,0,1,0,0.976433314,0.737075312,1
+W962_W977_winter_2017_2018,W962_W977,Spread Eagle Barrens,wolf,Wisconsin_NE,winter,winter,0,0,1,0.926628999,0.680758981,1
+W962_W977_winter_2018_2019,W962_W977,Spread Eagle Barrens,wolf,Wisconsin_NE,winter,winter,0,0,1,0.940174185,0.483444559,1
+W986_W988_winter_2017_2018,W986_W988,St. Louis River,wolf,Wisconsin_NW,winter,winter,0,0,1,0.969103165,0.648307146,0
+W994_W1000_rend_2018,W994_W1000,Venison Creek,wolf,Wisconsin_NW,rend,nw,0,1,0,0.909423152,0.567279469,1
+W994_W1000_winter_2018_2019,W994_W1000,Venison Creek,wolf,Wisconsin_NW,winter,winter,0,0,1,0.994170762,0.907598696,1
+W995_W1004_rend_2018,W995_W1004,Log Creek,wolf,Wisconsin_NW,rend,nw,0,1,0,0.905052436,0.568439746,0
+W998_W1002_rend_2018,W998_W1002,Tupper Creek,wolf,Wisconsin_NW,rend,nw,0,1,0,0.937061582,0.613761182,1
+W998_W1002_winter_2018_2019,W998_W1002,Tupper Creek,wolf,Wisconsin_NW,winter,winter,0,0,1,0.982628246,0.819193083,1
+wAF270_wAM310_rend_2012,wAF270_wAM310,Honker,wolf,Alaska_PrinceOfWalesIsland,rend,nw,0,1,0,0.966403243,0.631247035,1
+wAF270_wAM310_winter_2012_2013,wAF270_wAM310,Honker,wolf,Alaska_PrinceOfWalesIsland,winter,winter,0,0,1,0.829699616,0.610311855,1
+wAF270_wJF495_winter_2012_2013,wAF270_wJF495,Honker,wolf,Alaska_PrinceOfWalesIsland,winter,winter,0,0,1,0.73456625,0.432289987,0
+wJF495_wAM310_winter_2012_2013,wJF495_wAM310,Honker,wolf,Alaska_PrinceOfWalesIsland,winter,winter,0,0,1,0.909155748,0.623108061,0
+wJM435_wYM330_den_2014,wJM435_wYM330,Honker,wolf,Alaska_PrinceOfWalesIsland,den,nw,1,0,0,0.919836785,0.505933317,0
+wJM435_wYM330_rend_2014,wJM435_wYM330,Honker,wolf,Alaska_PrinceOfWalesIsland,rend,nw,0,1,0,0.952492001,0.486715912,0
+WO103_WO104_rend_2013,WO103_WO104,Republic Pack,wolf,Michigan_N_UP,rend,nw,0,1,0,0.908077517,0.566654941,1
+WO106_WO107_rend_2014,WO106_WO107,Deer Lake Pack,wolf,Michigan_N_UP,rend,nw,0,1,0,0.860853666,0.44707442,0
